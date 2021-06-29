@@ -1,0 +1,650 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<un-standard xmlns="https://www.metanorma.org/ns/un" type="presentation" version="0.6.5">
+<bibdata type="standard">
+<title type="main" language="en" format="text/plain">Annotated provisional agenda for the twenty-fourth session</title>
+<title type="subtitle" language="en" format="text/plain">To be held at the Palais des Nations, Geneva, starting at 10.00 on Monday, 30 April 2018,</title>
+<docidentifier>GE.18-01763(E)</docidentifier>
+<docnumber>GE.18-01763(E)</docnumber>
+<contributor>
+<role type="author"/>
+<organization>
+<name>United Nations</name>
+</organization>
+</contributor>
+<contributor>
+<role type="publisher"/>
+<organization>
+<name>United Nations</name>
+</organization>
+</contributor>
+<version>
+<revision-date>2018-02-09</revision-date>
+</version>
+<language current="true">en</language>
+<script current="true">Latn</script>
+<status>
+<stage language="">published</stage>
+</status>
+<copyright>
+<from>2018</from>
+<owner>
+<organization>
+<name>United Nations</name>
+</organization>
+</owner>
+</copyright>
+<ext>
+<doctype language="">plenary</doctype>
+<editorialgroup>
+<committee>United Nations Centre for Trade Facilitation and Electronic Business (UN/CEFACT)</committee>
+</editorialgroup>
+<distribution>General</distribution>
+<session>
+<number>24</number>
+<date>Geneva, 30 April &#8211; 1 May 2018</date>
+<id>ECE/TRADE/C/CEFACT/2018/1</id>
+</session>
+</ext>
+</bibdata><localized-strings><localized-string key="scope" language="en">Scope</localized-string><localized-string key="symbolsabbrev" language="en">Symbols and abbreviated terms</localized-string><localized-string key="abbrev" language="en">Abbreviated terms</localized-string><localized-string key="symbols" language="en">Symbols</localized-string><localized-string key="table_of_contents" language="en">Table of contents</localized-string><localized-string key="introduction" language="en">Introduction</localized-string><localized-string key="foreword" language="en">Foreword</localized-string><localized-string key="abstract" language="en">Summary</localized-string><localized-string key="acknowledgements" language="en">Acknowledgements</localized-string><localized-string key="termsdef" language="en">Terms and definitions</localized-string><localized-string key="termsdefsymbolsabbrev" language="en">Terms, definitions, symbols and abbreviated terms</localized-string><localized-string key="termsdefsymbols" language="en">Terms, definitions and symbols</localized-string><localized-string key="termsdefabbrev" language="en">Terms, definitions and abbreviated terms</localized-string><localized-string key="normref" language="en">Normative references</localized-string><localized-string key="bibliography" language="en">Bibliography</localized-string><localized-string key="preface" language="en">Preface</localized-string><localized-string key="clause" language="en">Clause</localized-string><localized-string key="annex" language="en">Annex</localized-string><localized-string key="appendix" language="en">Appendix</localized-string><localized-string key="no_terms_boilerplate" language="en"><p>No terms and definitions are listed in this document.</p>
+</localized-string><localized-string key="internal_terms_boilerplate" language="en"><p>For the purposes of this document, 
+    the following terms and definitions apply.</p>
+</localized-string><localized-string key="norm_with_refs_pref" language="en">The following documents are referred to in the text in such a way that some or all of their content constitutes requirements of this document. For dated references, only the edition cited applies. For undated references, the latest edition of the referenced document (including any amendments) applies.</localized-string><localized-string key="norm_empty_pref" language="en">There are no normative references in this document.</localized-string><localized-string key="external_terms_boilerplate" language="en"><p>For the purposes of this document, 
+  the terms and definitions given in % apply.</p>
+</localized-string><localized-string key="internal_external_terms_boilerplate" language="en"><p>For the purposes of this document, the terms and definitions 
+  given in % and the following apply.</p>
+</localized-string><localized-string key="term_defined_in" language="en">[term defined in %]</localized-string><localized-string key="note" language="en">NOTE</localized-string><localized-string key="note_xref" language="en">Note</localized-string><localized-string key="termnote" language="en">Note % to entry</localized-string><localized-string key="list" language="en">List</localized-string><localized-string key="figure" language="en">Figure</localized-string><localized-string key="formula" language="en">Formula</localized-string><localized-string key="inequality" language="en">Formula</localized-string><localized-string key="table" language="en">Table</localized-string><localized-string key="requirement" language="en">Requirement</localized-string><localized-string key="recommendation" language="en">Recommendation</localized-string><localized-string key="permission" language="en">Permission</localized-string><localized-string key="key" language="en">Key</localized-string><localized-string key="example" language="en">EXAMPLE</localized-string><localized-string key="example_xref" language="en">Example</localized-string><localized-string key="where" language="en">where</localized-string><localized-string key="wholeoftext" language="en">Whole of text</localized-string><localized-string key="draft_label" language="en">draft</localized-string><localized-string key="inform_annex" language="en">informative</localized-string><localized-string key="norm_annex" language="en">normative</localized-string><localized-string key="modified" language="en">modified</localized-string><localized-string key="deprecated" language="en">DEPRECATED</localized-string><localized-string key="source" language="en">SOURCE</localized-string><localized-string key="and" language="en">and</localized-string><localized-string key="all_parts" language="en">All Parts</localized-string><localized-string key="month_january" language="en">January</localized-string><localized-string key="month_february" language="en">February</localized-string><localized-string key="month_march" language="en">March</localized-string><localized-string key="month_april" language="en">April</localized-string><localized-string key="month_may" language="en">May</localized-string><localized-string key="month_june" language="en">June</localized-string><localized-string key="month_july" language="en">July</localized-string><localized-string key="month_august" language="en">August</localized-string><localized-string key="month_september" language="en">September</localized-string><localized-string key="month_october" language="en">October</localized-string><localized-string key="month_november" language="en">November</localized-string><localized-string key="month_december" language="en">December</localized-string><localized-string key="obligation" language="en">Obligation</localized-string><localized-string key="subject" language="en">Subject</localized-string><localized-string key="inherits" language="en">Inherits</localized-string><localized-string key="admonition" language="en">Box</localized-string><localized-string key="locality.section" language="en">Section</localized-string><localized-string key="locality.clause" language="en">Clause</localized-string><localized-string key="locality.part" language="en">Part</localized-string><localized-string key="locality.paragraph" language="en">Paragraph</localized-string><localized-string key="locality.chapter" language="en">Chapter</localized-string><localized-string key="locality.page" language="en">Page</localized-string><localized-string key="locality.table" language="en">Table</localized-string><localized-string key="locality.annex" language="en">Annex</localized-string><localized-string key="locality.figure" language="en">Figure</localized-string><localized-string key="locality.example" language="en">Example</localized-string><localized-string key="locality.note" language="en">Note</localized-string><localized-string key="locality.formula" language="en">Formula</localized-string><localized-string key="Clause.sg" language="en">Clause</localized-string><localized-string key="Clause.pl" language="en">Clauses</localized-string><localized-string key="Annex.sg" language="en">Annex</localized-string><localized-string key="Annex.pl" language="en">Annexes</localized-string><localized-string key="Appendix.sg" language="en">Appendix</localized-string><localized-string key="Appendix.pl" language="en">Appendixes</localized-string><localized-string key="Note.sg" language="en">Note</localized-string><localized-string key="Note.pl" language="en">Notes</localized-string><localized-string key="Note_%_to_entry.sg" language="en">Note % to entry</localized-string><localized-string key="Note_%_to_entry.pl" language="en">Notes % to entry</localized-string><localized-string key="List.sg" language="en">List</localized-string><localized-string key="List.pl" language="en">Lists</localized-string><localized-string key="Figure.sg" language="en">Figure</localized-string><localized-string key="Figure.pl" language="en">Figures</localized-string><localized-string key="Formula.sg" language="en">Formula</localized-string><localized-string key="Formula.pl" language="en">Formulas</localized-string><localized-string key="Table.sg" language="en">Table</localized-string><localized-string key="Table.pl" language="en">Tables</localized-string><localized-string key="Requirement.sg" language="en">Requirement</localized-string><localized-string key="Requirement.pl" language="en">Requirements</localized-string><localized-string key="Recommendation.sg" language="en">Recommendation</localized-string><localized-string key="Recommendation.pl" language="en">Recommendations</localized-string><localized-string key="Permission.sg" language="en">Permission</localized-string><localized-string key="Permission.pl" language="en">Permissions</localized-string><localized-string key="Example.sg" language="en">Example</localized-string><localized-string key="Example.pl" language="en">Examples</localized-string><localized-string key="Part.sg" language="en">Part</localized-string><localized-string key="Part.pl" language="en">Parts</localized-string><localized-string key="Section.sg" language="en">Section</localized-string><localized-string key="Section.pl" language="en">Sections</localized-string><localized-string key="Paragraph.sg" language="en">Paragraph</localized-string><localized-string key="Paragraph.pl" language="en">Paragraphs</localized-string><localized-string key="Chapter.sg" language="en">Chapter</localized-string><localized-string key="Chapter.pl" language="en">Chapters</localized-string><localized-string key="Page.sg" language="en">Page</localized-string><localized-string key="Page.pl" language="en">Pages</localized-string><localized-string key="paragraph" language="en">paragraph</localized-string><localized-string key="language" language="en">en</localized-string><localized-string key="script" language="en">Latn</localized-string></localized-strings>
+<boilerplate>
+  <copyright-statement>
+    <clause>
+      <p id="boilerplate-ECEhdr">ECE/TRADE/437</p>
+      <p id="_a6af8871-2c12-4336-bc6b-b1ce8e9da91d">Copyright &#169; United Nations 2018<br/>
+        All rights reserved worldwide<br/>
+        United Nations publication issued by the Economic Commission for Europe</p>
+    </clause>
+  </copyright-statement>
+  <license-statement>
+    <clause>
+      <p id="_1a456bb1-b5d1-4f7e-b140-a17bcba6d579">None of the materials provided on this web site may be used,
+        reproduced or transmitted, in whole or in part, in any form or by any
+        means, electronic or mechanical, including photocopying, recording or
+        the use of any information storage and retrieval system, except as
+        provided for in the Terms and Conditions of Use of United Nations Web
+        Sites, without permission in writing from the publisher.</p>
+
+      <p id="_82d986ec-ed88-4f18-938c-559c149d4d98">News-related material can be used as long as the appropriate credit is given and the United Nations is advised.</p>
+      <p id="_39f635e7-f4af-4e67-90d2-3fefdf7a872c">To request such permission or for further enquires, please visit:
+        <link target="https://shop.un.org/rights-permissions">United Nations Publications: Rights and Permissions.</link></p>
+    </clause>
+  </license-statement>
+  <legal-statement>
+    <clause>
+      <clause>
+        <title depth="1">Note</title>
+        <p id="_e4ad269f-7f9d-44f8-b457-663f7f99bd72">The designations employed and the presentation of the material in this publication do not imply the expression of any opinion whatsoever on the part of the Secretariat of the United Nations concerning the legal status of any country, territory, city or area, or of its authorities, or concerning the delimitation of its frontiers or boundaries.</p>
+      </clause>
+
+      
+      <clause>
+        <title depth="1">United Nations Centre for Trade Facilitation and Electronic Business (UN/CEFACT)<br/>Simple, Transparent and Effective Processes for Global Commerce</title>
+        <p id="_6799cb94-6475-4717-b5b9-f0806528a699">UN/CEFACT&#8217;s mission is to improve the ability of business, trade and administrative organizations, from developed, developing and transitional economies, to exchange products and relevant services effectively. Its principal focus is on facilitating national and international transactions, through the simplification and harmonization of processes, procedures and information flows, and so contribute to the growth of global commerce.</p>
+        <p id="_79435f90-5bc5-4000-ac9a-b9529a533114">Participation in UN/CEFACT is open to experts from United Nations Member States, Intergovernmental Organizations and Non-Governmental Organizations recognised by the United Nations Economic and Social Council (ECOSOC). Through this participation of government and business representatives from around the world, UN/CEFACT has developed a range of trade facilitation and e-business standards, recommendations and tools that are approved within a broad intergovernmental process and implemented globally.</p>
+        <p align="center" id="_f935fd9c-3643-4c64-8471-903312f79f60"><strong>www.unece.org/cefact</strong></p>
+      </clause>
+      
+    </clause>
+  </legal-statement>
+  <feedback-statement>
+    <clause>
+      <p id="boilerplate-feedback-name">UN Economic Commission for Europe: Information Service</p>
+      <p id="boilerplate-feedback-address">
+        
+        Palais des Nations<br/>
+        CH-1211 Geneva 10<br/>
+        Switzerland<br/>
+        <br/>
+        <link target="tel:+41(0)229171234">+41 (0) 22 917 12 34 (switchboard)</link><br/>
+               
+        <link target="mailto:unece_info@un.org">unece_info@un.org</link><br/>
+        <link target="https://www.unece.org/">www.unece.org/</link>
+      </p>
+    </clause>
+  </feedback-statement>
+</boilerplate>
+
+
+<preface><foreword id="_4a6e3aaf-51e1-4285-b11f-7ff452c4a3ba" obligation="informative" displayorder="1"><title>Foreword</title><note id="_267d6698-4c6c-4d16-9a4f-91beed2fef90"><name>NOTE</name>
+<p id="_bbe04c84-de13-4d92-9ec8-905eadafb474">For reasons of economy, delegates are requested to bring copies of all relevant documents to the session. There will be no documentation available in the conference room. Before the session, documents may be downloaded from the UNECE website (<link target="http://www.unece.org/24thuncefactplenary.html"/>).</p>
+</note>
+<note id="_813dacd2-7ff6-48e6-8815-8bad8ca1ef3d"><name>NOTE</name>
+<p id="_65f3849a-92c8-4324-a6fd-98c153ab2c6f">All delegates are requested to complete the online registration form available on the UNECE website (<link target="http://www.unece.org/24thuncefactplenary.html"/>). Upon arrival at the Palais des Nations, delegates should obtain an identification badge at the UNOG Security and Safety Section, located at the Pregny Gate (14, Av. de la Paix). In case of difficulty, please contact the secretariat by telephone (ext. 73254). For a map of the Palais des Nations and other useful information, see the website: <link target="http://www.unece.org/meetings/practical.html"/>.</p>
+</note></foreword></preface><sections>
+<clause id="_provisional_agenda" inline-header="false" obligation="normative" displayorder="2">
+<title depth="1">I.<tab/>Provisional agenda</title>
+<ol id="_86aff834-eb2c-4a74-8aee-37d16f955ee5" type="arabic">
+<li>
+<p id="_13717afa-cfe9-42e4-8c69-67b655aafd3c">Adoption of the agenda.</p>
+</li>
+<li>
+<p id="_658c649d-deab-4789-9232-e30348c4d624">Elections.</p>
+</li>
+<li>
+<p id="_1b48ab3d-ef0e-454d-ba2c-64a3eafb9e23">Matters arising since the twenty-third session.</p>
+</li>
+<li>
+<p id="_a85db0b3-85a5-4e4f-8c78-34fb1c26654f">Bureau overview of developments.</p>
+</li>
+<li>
+<p id="_ed0df46d-be64-4197-9ed9-a62ebdb5ae02">Reports of rapporteurs.</p>
+</li>
+<li>
+<p id="_11a44f8e-0a9a-4906-9711-04a91cb2856b">Activities of other Economic Commission for Europe bodies and international organizations of interest to United Nations Centre for Trade Facilitation and Electronic Business.</p>
+</li>
+<li>
+<p id="_9f3bf2d7-5534-4d55-b348-2f1f44fd2d54">Recommendations and standards.</p>
+</li>
+<li>
+<p id="_3b0aef23-b54e-429b-9b84-4a527960778c">United Nations Centre for Trade Facilitation and Electronic Business structure, mandate, terms of reference and procedures.</p>
+</li>
+<li>
+<p id="_16a7f501-0c34-4686-aaed-2ef0c0739a98">Advisory Group on the United Nations Code for Trade and Transport Locations.</p>
+</li>
+<li>
+<p id="_c54ec781-4296-433f-b7b7-948c0b5bd168">Team of Specialists on Sustainable Fisheries.</p>
+</li>
+<li>
+<p id="_b6d78e6c-dfd8-4ae8-b905-3120c5a6cbb3">Future challenges in trade facilitation and electronic business.</p>
+</li>
+<li>
+<p id="_5f62e43f-f54b-4124-8b8f-ed61249908d0">Other business.</p>
+</li>
+<li>
+<p id="_5c51b161-28b5-4c3d-974c-5c697a903a27">Adoption of decisions and draft report of the twenty-fourth session.</p>
+</li>
+</ol>
+</clause>
+<clause id="_annotations" inline-header="false" obligation="normative" displayorder="3"><title depth="1">II.<tab/>Annotations</title><clause id="_openning" inline-header="false" obligation="normative"><title depth="2">1.<tab/>Openning</title><p id="_55556ce8-d4a5-4120-b7d7-b0ff06b79edc">The provisional agenda and timetable for the twenty-fourth session of the United Nations Centre for Trade Facilitation and Electronic Business (UN/CEFACT) has been drawn up by the Bureau in consultation with the secretariat. It is based on the decisions adopted at the twenty-third session. There will be simultaneous interpretation into English, French and Russian.</p>
+<p id="_ae65d292-993a-4e11-a02a-18369adfd6a0">The session will be opened by the Executive Secretary of the United Nations Economic Commission for Europe (UNECE).</p></clause>
+<clause id="_item_1_adoption_of_the_agenda" inline-header="false" obligation="normative"><title depth="2">2.<tab/>Item 1. Adoption of the agenda</title><table id="_b86eb1e6-f0d9-446c-9489-f6def9a60446" unnumbered="true">
+<thead>
+<tr>
+<th valign="top" align="left">
+<em>Document title</em>
+</th>
+<th valign="top" align="left">
+<em>Document symbol</em>
+</th>
+<th valign="top" align="left"/>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">Draft agenda</td>
+<td valign="top" align="left">ECE/TRADE/C/CEFACT/2018/1</td>
+<td valign="top" align="left">For decision</td>
+</tr>
+</tbody>
+</table>
+<p id="_7481c963-51a2-4b22-8c6a-b68c829fc51d">The secretariat will present the dra|t agenda for adoption (ECE/TRADE/C/CEFACT/2018/1) and will inform the Plenary of any proposed changes.</p></clause>
+<clause id="_item_2_elections" inline-header="false" obligation="normative"><title depth="2">3.<tab/>Item 2. Elections</title><table id="_e5d99731-7f10-4c52-9fe1-5c7bf3bef749" unnumbered="true">
+<thead>
+<tr>
+<th valign="top" align="left">
+<em>Document title</em>
+</th>
+<th valign="top" align="left">
+<em>Document symbol</em>
+</th>
+<th valign="top" align="left"/>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">Consolidated United Nations Centre for Trade Facilitation and Electronic Business (UN/CEFACT) mandate and terms of reference</td>
+<td valign="top" align="left">ECE/TRADE/C/CEFACT/2017/15</td>
+<td valign="top" align="left">For information</td>
+</tr>
+</tbody>
+</table>
+<p id="_43605c03-32e2-4f5d-8a84-93476e0c1c5e">Delegations who are physically present will elect the Chair for the UN/CEFACT Bureau for the period 2018 &#8211; 2021. The Chair will preside over the rest of the twenty-fourth session.</p>
+<p id="_ac5ece55-33eb-4096-ac88-2ee483aef548">Delegations are encouraged to refer to &#8220;Consolidated UN/CEFACT mandate and terms of reference&#8221; (ECE/TRADE/C/CEFACT/2017/15), paragraphs 52-73, adopted at the twenty-third session.</p></clause>
+<clause id="_item_3_matters_arising_since_the_twenty_third_session" inline-header="false" obligation="normative"><title depth="2">4.<tab/>Item 3. Matters arising since the twenty-third session</title><table id="_9de9abda-6dc7-4add-b37f-777fb031d788" unnumbered="true">
+<thead>
+<tr>
+<th valign="top" align="left">
+<em>Document title</em>
+</th>
+<th valign="top" align="left">
+<em>Document symbol</em>
+</th>
+<th valign="top" align="left"/>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">Matters arising since the twenty-third session</td>
+<td valign="top" align="left">ECE/TRADE/C/CEFACT/2018/3</td>
+<td valign="top" align="left">For information</td>
+</tr>
+</tbody>
+</table>
+<p id="_4eb9d71a-ac5d-4094-9cbd-9b2dc983ff48">The secretariat will report on matters arising from the UNECE&#8217;s Executive Committee (EXCOM) and other UN bodies and conferences since the twenty-third session.</p>
+<p id="_bc9c7bd0-a263-4cfb-bdcf-09dd8909a4cc">Delegations will have an opportunity to review and discuss the topics raised.</p></clause>
+<clause id="_item_4_bureau_overview_of_developments" inline-header="false" obligation="normative"><title depth="2">5.<tab/>Item 4.	Bureau overview of developments</title><p id="_1fc6236d-f14e-49f0-8727-9cde07052e37">The Bureau will provide an overview of developments since the last session and will set the stage for the following agenda items.</p>
+<p id="_3bd93e48-39a6-4e89-981a-836f1c93b201">Delegations will have an opportunity to review and discuss the topics raised.</p></clause>
+<clause id="_item_5_reports_of_rapporteurs" inline-header="false" obligation="normative"><title depth="2">6.<tab/>Item 5. Reports of rapporteurs</title><table id="_40c3b53d-aa23-4233-a574-fa5ce77346f1" unnumbered="true">
+<thead>
+<tr>
+<th valign="top" align="left">
+<em>Document title</em>
+</th>
+<th valign="top" align="left">
+<em>Document symbol</em>
+</th>
+<th valign="top" align="left"/>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">Report of Rapporteur for Africa</td>
+<td valign="top" align="left">ECE/TRADE/C/CEFACT/2018/4</td>
+<td valign="top" align="left">For noting</td>
+</tr>
+<tr>
+<td valign="top" align="left">Report of Rapporteur for Asia and the Pacific</td>
+<td valign="top" align="left">ECE/TRADE/C/CEFACT/2018/5</td>
+<td valign="top" align="left">For noting</td>
+</tr>
+</tbody>
+</table>
+<p id="_e03939c0-b5ba-4cb8-b5f3-99c3e2d5de53">The regional rapporteurs will report on activities related to UN/CEFACT in their regions.</p>
+<p id="_feb1c1aa-0c2b-4078-b570-ce31588bcf3e">Delegations will have an opportunity to review and discuss the topics raised.</p></clause>
+<clause id="_item_6_activities_of_other_united_nations_economic_commission_for_europe_bodies_and_international_organizations_of_interest_to_united_nations_centre_for_trade_facilitation_and_electronic_business" inline-header="false" obligation="normative"><title depth="2">7.<tab/>Item 6. Activities of other United Nations Economic Commission for Europe bodies and international organizations of interest to United Nations Centre for Trade Facilitation and Electronic Business</title><p id="_adb2a7d8-9cf3-4c49-b4fd-927dfdbbf0d7">Delegates will be briefed about activities of other UNECE bodies on matters of potential interest to UN/CEFACT. Representatives from other UN organizations and other international organizations will be invited to highlight areas for potential cooperation with UN/CEFACT as well as current and future activities of relevance.</p>
+<p id="_24b56303-c1f6-48cc-8628-8945127db3fd">A discussion will take place on potential areas for collaboration between UN/CEFACT and other UNECE bodies and international organizations.</p></clause>
+<clause id="_item_7_recommendations_and_standards" inline-header="false" obligation="normative"><title depth="2">A.<tab/>Item 7.	Recommendations and standards</title><clause id="_standards_for_approval" inline-header="false" obligation="normative"><title depth="3">8.<tab/>Standards for approval</title><p id="_4d2e86af-a0f8-4b31-88db-873c0f00958a">The following standards will be presented to the Plenary for approval and delegations will have an opportunity to discuss these:</p>
+<p id="_6c0d9218-ea90-4427-99e3-f2b42f7017b8">UN/EDIFACT Directory (Versions D.17A and D.17B)
+(<link target="http://www.unece.org/tradewelcome/un-centre-for-trade-facilitation-and-e-business-uncefact/outputs/standards/unedifact/directories/2011-present.html"/>)</p>
+<p id="_bae97f54-fa54-4b4b-8aef-bbd197ea4fff">UN/LOCODE Directory (Versions 2017-1 and 2017-2)
+(<link target="http://www.unece.org/cefact/locode/welcome.html"/>)</p>
+<p id="_898ba583-2def-4965-8d3c-e8ea00971991">UN/CEFACT Core Component Library (Versions D.17A and D.17B)
+(<link target="http://www.unece.org/cefact/codesfortrade/unccl/ccl_index.html"/>)</p>
+<p id="_8fee73af-12b4-429c-96ff-601f59831791">UN/CEFACT XML Schema Library (Versions D.17A and D.17B) (<link target="http://www.unece.org/cefact/xml_schemas/index"/>)</p>
+<p id="_f81c4ebf-6513-4be4-8d26-86d83246b453">Animal Traceability Business Requirement Specification version 1.2 (<link target="http://www.unece.org/fileadmin/DAM/uncefact/BRS/BRS_Animal_Traceability_BRS_v1.2.pdf"/>)</p>
+<p id="_412d51b8-9702-4b31-8273-8d4b32db7d41">Fisheries Language for Universal eXchange (FLUX); also known as &#8220;Electronic Interchange of fisheries catch data&#8221; Business Requirements Specification version 1.1 (<link target="http://www.unece.org/fileadmin/DAM/cefact/brs/FLUX_P1000-v1.1.zip"/>)</p>
+<p id="_0bbd88a2-f891-4561-a9d8-f28f1810d30a">Traceability of Primary Natural Products Business Requirements Specification version 1.0 (<link target="http://www.unece.org/fileadmin/DAM/uncefact/BRS/BRS__TraceabilityOfPrimaryNaturalProducts_v1.0.pdf"/>)</p>
+<p id="_20888881-eb50-4b93-a9dd-0ddad77de52d">Cross Industry Scheduling Business Requirements Specification version 2.0 (<link target="http://www.unece.org/fileadmin/DAM/cefact/brs/BRS_Cross_Industry_Scheduling_Process_v2_FINAL.pdf"/>)</p>
+<p id="_5b36f70b-687f-44e6-976d-262587d4ecc6">Cross Industry Catalogue Process Requirement Specification Mapping version 2 (<link target="http://www.unece.org/fileadmin/DAM/cefact/rsm/RSM_CIC_CCBDA_Cross_Industry_Catalogue_Process_v2.pdf"/>)</p>
+<p id="_1c0dba7c-c635-4887-bcb6-864c5295e473">Cross Industry Delivering Process Requirement Specification Mapping version 3 (<link target="http://www.unece.org/fileadmin/DAM/cefact/rsm/RSM_CID_CCBDA_Cross_Industry_Delivering_Process_v3.pdf"/>)</p>
+<p id="_c46bc878-f8f9-4a23-8b3e-0a3f13833634">Cross Industry Ordering Process Requirement Specification Mapping version 3 (<link target="http://www.unece.org/fileadmin/DAM/cefact/rsm/RSM_CIO_CCBDA_Cross_Industry_Ordering_Process_v3.pdf"/>)</p>
+<p id="_ccab01ec-103f-4d2b-9abb-bfb56d6a58ae">Cross Industry Quotation Process Requirement Specification Mapping version 2 (<link target="http://www.unece.org/fileadmin/DAM/cefact/rsm/RSM_CIQ_CCBDA_Cross_Industry_Quotation__Process_v2.pdf"/>)</p>
+<p id="_c6d46076-ea9a-4c5a-b54f-ff75094ea5bc">Cross Industry Remittance Process Requirement Specification Mapping version 2 (<link target="http://www.unece.org/fileadmin/DAM/cefact/rsm/RSM_CIR_CCBDA_Cross_Industry_Remittance_Process_v2.pdf"/>)</p>
+<p id="_8cc4b94a-3f3d-458d-8d49-f9bd2c9d6cce">eCMR Business Requirement Specification version 1 (to be put on the website shortly)</p></clause>
+<clause id="_other_deliverable_for_noting" inline-header="false" obligation="normative"><title depth="3">9.<tab/>Other deliverable for noting</title><table id="_daac3c98-55fe-4239-9d6a-1fb828a22cc2" unnumbered="true">
+<thead>
+<tr>
+<th valign="top" align="left">
+<em>Document title</em>
+</th>
+<th valign="top" align="left">
+<em>Document symbol</em>
+</th>
+<th valign="top" align="left"/>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">White Paper on Paperless Trade</td>
+<td valign="top" align="left">ECE/TRADE/C/CEFACT/2018/6</td>
+<td valign="top" align="left">For noting</td>
+</tr>
+<tr>
+<td valign="top" align="left">White Paper on Trusted Transboundary Environment</td>
+<td valign="top" align="left">ECE/TRADE/C/CEFACT/2018/7</td>
+<td valign="top" align="left">For noting</td>
+</tr>
+<tr>
+<td valign="top" align="left">White Paper on Data Pipeline Concept for Improving Data Quality in the Supply Chain</td>
+<td valign="top" align="left">ECE/TRADE/C/CEFACT/2018/8</td>
+<td valign="top" align="left">For noting</td>
+</tr>
+<tr>
+<td valign="top" align="left">White Paper on Technical Application of Blockchain to United Nations Centre for Trade Facilitation and Electronic Business (UN/CEFACT) Deliverables</td>
+<td valign="top" align="left">ECE/TRADE/C/CEFACT/2018/9</td>
+<td valign="top" align="left">For noting</td>
+</tr>
+<tr>
+<td valign="top" align="left">White Paper on Women in Trade Facilitation</td>
+<td valign="top" align="left">ECE/TRADE/C/CEFACT/2018/10</td>
+<td valign="top" align="left">For noting</td>
+</tr>
+<tr>
+<td valign="top" align="left">Procedure for Reference Data Model Artefact Publication</td>
+<td valign="top" align="left">ECE/TRADE/C/CEFACT/2018/11</td>
+<td valign="top" align="left">For noting</td>
+</tr>
+</tbody>
+</table>
+<p id="_0b4bd85b-a044-4123-a162-1ba93f33a486">The above deliverables will be presented to the Plenary for noting and delegations will have an opportunity to review and discuss these.</p></clause>
+<clause id="_related_issues_for_noting_and_information" inline-header="false" obligation="normative"><title depth="3">10.<tab/>Related issues for noting and information</title><table id="_996df840-9c81-4aaa-a7cf-9ae438f81458" unnumbered="true">
+<thead>
+<tr>
+<th valign="top" align="left">
+<em>Document title</em>
+</th>
+<th valign="top" align="left">
+<em>Document symbol</em>
+</th>
+<th valign="top" align="left"/>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">Executive Guide on eInvoicing / Cross Industry Invoice</td>
+<td valign="top" align="left">ECE/TRADE/C/CEFACT/2018/12</td>
+<td valign="top" align="left">For noting</td>
+</tr>
+<tr>
+<td valign="top" align="left">Executive Guide on UN/LOCODE</td>
+<td valign="top" align="left">ECE/TRADE/C/CEFACT/2018/13</td>
+<td valign="top" align="left">For noting</td>
+</tr>
+<tr>
+<td valign="top" align="left">Executive Guide on e-CMR</td>
+<td valign="top" align="left">ECE/TRADE/C/CEFACT/2018/14</td>
+<td valign="top" align="left">For noting</td>
+</tr>
+<tr>
+<td valign="top" align="left">Meeting Report and Recommendations of the 4th UNECE International Conference on Single Window of October 2017</td>
+<td valign="top" align="left">ECE/TRADE/C/CEFACT/2018/15</td>
+<td valign="top" align="left">For information</td>
+</tr>
+<tr>
+<td valign="top" align="left">Meeting Report of the 3rd UN/LOCODE Conference of April 2017</td>
+<td valign="top" align="left">ECE/TRADE/C/CEFACT/2018/16</td>
+<td valign="top" align="left">For information</td>
+</tr>
+<tr>
+<td valign="top" align="left">UNECE 2017 Regional Report on Trade Facilitation and Paperless Trade</td>
+<td valign="top" align="left">ECE/TRADE/C/CEFACT/2018/17</td>
+<td valign="top" align="left">For information</td>
+</tr>
+<tr>
+<td valign="top" align="left">UN Regional Commissions 2017 Global Report on Trade Facilitation and Paperless Trade</td>
+<td valign="top" align="left">ECE/TRADE/C/CEFACT/2018/18</td>
+<td valign="top" align="left">For information</td>
+</tr>
+<tr>
+<td valign="top" align="left">Report on the use of United Nations Centre for Trade Facilitation and Electronic Business (UN/CEFACT) Standards</td>
+<td valign="top" align="left">ECE/TRADE/C/CEFACT/2018/Misc.1</td>
+<td valign="top" align="left">For information</td>
+</tr>
+</tbody>
+</table>
+<p id="_db6f1f7e-eeea-4838-ab84-3e088e73bbbc">Three Executive Guides and two meeting reports will be presented to the Plenary for noting.</p>
+<p id="_11618719-e92c-4420-9044-acfc626a40ea">The UNECE Trade Facilitation Secretariat, in cooperation with the other UN Regional Commissions, has performed a survey and a subsequent report on the state of trade facilitation and paperless trade. The Global Report and the Regional Report will be presented to the Plenary for noting.</p>
+<p id="_9dd14a73-68b6-4364-8c2b-41e60738a829">Following up on Plenary Decision 16-16 (ECE/TRADE/C/CEFACT/2016/2 para 64) and Plenary Decision 17-21 (ECE/TRADE/C/CEFACT/2017/2 para 59-61), the secretariat has surveyed a sample of the user community in order to see how UN/CEFACT deliverables are being used. The Report (ECE/TRADE/C/CEFACT/2018/Misc.1) will be presented to the Plenary for information.</p>
+<p id="_d04a85fd-207b-4e80-91a5-5853071bb5c0">Delegations will have an opportunity to review and discuss these.</p></clause></clause>
+<clause id="_item_8_united_nations_centre_for_trade_facilitation_and_electronic_business_structure_mandate_terms_of_reference_and_procedures" inline-header="false" obligation="normative"><title depth="2">11.<tab/>Item 8.	United Nations Centre for Trade Facilitation and Electronic Business structure, mandate, terms of reference and procedures</title><table id="_a1fe6074-acaa-4c81-abe2-96b151381705" unnumbered="true">
+<thead>
+<tr>
+<th valign="top" align="left">
+<em>Document title</em>
+</th>
+<th valign="top" align="left">
+<em>Document symbol</em>
+</th>
+<th valign="top" align="left"/>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">Representation Procedure Guidelines</td>
+<td valign="top" align="left">ECE/TRADE/C/CEFACT/2018/19</td>
+<td valign="top" align="left">For noting</td>
+</tr>
+</tbody>
+</table>
+<p id="_93ebcfbd-1625-4713-b4f4-53b0ec6014bf">The secretariat and the Bureau will present a Representation Procedure Guideline (ECE/TRADE/C/CEFACT/2018/19) to the Plenary for noting.</p>
+<p id="_264e5071-4fe1-46b8-b19a-f35bbcb04c51">Delegations will have an opportunity to review and discuss this.</p></clause>
+<clause id="_item_9_advisory_group_on_the_united_nations_code_for_trade_and_transport_locations" inline-header="false" obligation="normative"><title depth="2">12.<tab/>Item 9.	Advisory Group on the United Nations Code for Trade and Transport Locations</title><table id="_b0e92bf9-e17a-40d5-853d-e1f689bc5239" unnumbered="true">
+<thead>
+<tr>
+<th valign="top" align="left">
+<em>Document title</em>
+</th>
+<th valign="top" align="left">
+<em>Document symbol</em>
+</th>
+<th valign="top" align="left"/>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">Meeting Report of the UN/LOCODE Advisory Group of December 2017</td>
+<td valign="top" align="left">ECE/TRADE/C/CEFACT/2018/20</td>
+<td valign="top" align="left">For endorsement</td>
+</tr>
+<tr>
+<td valign="top" align="left">Mandate and Terms of Reference of the Advisory Group on the United Nations Code for Trade and Transport Locations (UN/LOCODE)</td>
+<td valign="top" align="left">ECE/TRADE/C/CEFACT/2017/17</td>
+<td valign="top" align="left">For information</td>
+</tr>
+</tbody>
+</table>
+<p id="_a297f05b-3c43-40e1-b331-ae4a7cc57aac">At the 23rd Plenary, the UN/LOCODE Advisory Group Mandate and Terms of Reference were approved (ECE/TRADE/C/CEFACT/2017/17). This group aims to ensure the maintenance and further develop the UN/LOCODE standards and to further enhance the network of UN/LOCODE Focal Points. The first meeting of this group was held in December 2017; this meeting&#8217;s report will be presented to the Plenary for endorsement.</p>
+<p id="_7e8d130b-4002-4573-8663-52c07febc012">Delegations will have an opportunity to review and discuss this.</p></clause>
+<clause id="_item_10_team_of_specialists_on_sustainable_fisheries" inline-header="false" obligation="normative"><title depth="2">13.<tab/>Item 10. Team of Specialists on Sustainable Fisheries</title><table id="_200782dc-b809-45e0-ae2d-61d78d428903" unnumbered="true">
+<thead>
+<tr>
+<th valign="top" align="left">
+<em>Document title</em>
+</th>
+<th valign="top" align="left">
+<em>Document symbol</em>
+</th>
+<th valign="top" align="left"/>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">Meeting Report of the Team of Specialists on Sustainable Fisheries of January 2018</td>
+<td valign="top" align="left">ECE/TRADE/C/CEFACT/2018/21</td>
+<td valign="top" align="left">For endorsement</td>
+</tr>
+<tr>
+<td valign="top" align="left">Programme of Work of the Team of Specialists on Sustainable Fisheries 2018-2019</td>
+<td valign="top" align="left">ECE/TRADE/C/CEFACT/2018/22</td>
+<td valign="top" align="left">For endorsement</td>
+</tr>
+<tr>
+<td valign="top" align="left">Mandate and Terms of Reference of the Sustainable Fisheries Team of Specialists</td>
+<td valign="top" align="left">ECE/TRADE/C/CEFACT/2017/16/Rev1</td>
+<td valign="top" align="left">For information</td>
+</tr>
+</tbody>
+</table>
+<p id="_d77dd0cf-db46-4d2b-9e4a-c96db6dedc54">At the 23rd Plenary, the &#8220;Sustainable Fisheries Team of Specialists Mandate and Terms of Reference&#8221; were approved (ECE/TRADE/C/CEFACT/2017/16) and was subsequently approved, with minor modifications, by the UNECE Executive Committee (EXCOM), during its 92nd meeting (ECE/TRADE/C/CEFACT/2017/16/Rev1). This group aims to support the implementation of the Fisheries Language for Universal eXchange (FLUX) standard as well as other standards on sustainable fisheries on a global scale. The first meeting of this group was held in January 2018; this meeting&#8217;s report will be presented to the Plenary for information.</p>
+<p id="_4ca6a2c7-4f5e-427b-8d62-135c7578eac7">The Sustainable Fisheries Team of Specialists will present for approval their proposed Programme of Work for the period 2018-2019 (ECE/TRADE/C/CEFACT/2018/22).</p>
+<p id="_746ed047-b5d7-437b-a776-b2ead7237634">Delegations will have an opportunity to review and discuss this.</p></clause>
+<clause id="_item_11_future_challenges_in_trade_facilitation_and_electronic_business" inline-header="false" obligation="normative"><title depth="2">14.<tab/>Item 11. Future challenges in trade facilitation and electronic business</title><table id="_0bd5f690-b587-44cc-9fbf-424922cda1db" unnumbered="true">
+<thead>
+<tr>
+<th valign="top" align="left">
+<em>Document title</em>
+</th>
+<th valign="top" align="left">
+<em>Document symbol</em>
+</th>
+<th valign="top" align="left"/>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">Transparency in textile value chains in relation to the environmental, social and human health impacts of parts, components and production processes</td>
+<td valign="top" align="left">ECE/TRADE/C/CEFACT/2018/23</td>
+<td valign="top" align="left">For noting</td>
+</tr>
+<tr>
+<td valign="top" align="left">Briefing note on United Nations Centre for Trade Facilitation and Electronic Business (UN/CEFACT) Contributions to UN Sustainable Development Goal 12 &#8211; Responsible Production and Consumption</td>
+<td valign="top" align="left">ECE/TRADE/C/CEFACT/2018/24</td>
+<td valign="top" align="left">For noting</td>
+</tr>
+<tr>
+<td valign="top" align="left">Briefing note on Blockchain for SDG</td>
+<td valign="top" align="left">ECE/TRADE/C/CEFACT/2018/25</td>
+<td valign="top" align="left">For noting</td>
+</tr>
+</tbody>
+</table>
+<p id="_415d8187-89c7-4fe1-b324-082f9ef12491">Delegations will have an opportunity to provide their perspectives on emerging requirements and developments in the field of trade facilitation and electronic business.</p>
+<p id="_7804a4e3-92b6-4556-97b4-fe2537411ae4">UN/CEFACT continues to have an important role to play in the implementation of the WTO&#8217;s Trade Facilitation Agreement, including with respect to the single window, use of international standards and national trade facilitation committees. Blockchain and Traceability is becoming an increasingly important issue for governments and business, as well as for organisations such as the WTO and WCO. It is critical that UN/CEFACT standards continue to underpin new trends in international trade. UN/CEFACT will also seek to ensure that its work supports the 2030 Agenda for Sustainable Development.</p>
+<p id="_0211807c-fa2e-4507-b948-b9eff57fe88e">The goal of this session is to brainstorm on how to build on progress in key projects and activities and on those areas that might be given priority in the future.</p></clause>
+<clause id="_item_12_other_business" inline-header="false" obligation="normative">
+<title depth="2">15.<tab/>Item 12. Other business</title>
+<p id="_8afafafb-8250-4b8a-b18a-08d82fbc2454">Delegations will be invited to raise other issues not previously addressed during the session.</p>
+</clause>
+<clause id="_item_13_adoption_of_decisions_and_draft_report_of_the_twenty_fourth_session" inline-header="false" obligation="normative"><title depth="2">16.<tab/>Item 13. Adoption of decisions and draft report of the twenty-fourth session</title><p id="_e8dfc94f-ccb1-48cf-b5b5-95079c85adfb">Delegations will be invited to adopt the decisions and the draft report.</p>
+<table id="_1dfd4b79-598f-44c5-a6b2-924e9c798455" unnumbered="true">
+<thead>
+<tr>
+<th valign="top" align="left">
+<em>Document title</em>
+</th>
+<th valign="top" align="left">
+<em>Document symbol</em>
+</th>
+<th valign="top" align="left"/>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">Draft report of the twenty-fourth session</td>
+<td valign="top" align="left">ECE/TRADE/C/CEFACT/2018/2</td>
+<td valign="top" align="left">For decision</td>
+</tr>
+</tbody>
+</table>
+<p id="_3877750b-8e33-458f-a551-1c9fa9cd7062">
+<strong>Closing</strong>
+</p></clause></clause>
+<clause id="_provisional_timetable" inline-header="false" obligation="normative" displayorder="4">
+<title depth="1">III.<tab/>Provisional timetable</title>
+<table id="_5cbc03ea-0115-4749-aaaa-e0152e8874d6" unnumbered="true">
+<tbody>
+<tr>
+<th valign="middle" align="center">
+<em>Date and time</em>
+</th>
+<th valign="middle" align="center">
+<em>Agenda item</em>
+</th>
+<th valign="middle" align="center">
+<em>Introduced by</em>
+</th>
+</tr>
+<tr>
+<td colspan="3" valign="middle" align="center">
+<strong>Monday, 30 April</strong>
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">10.00 &#8211; 10.15</td>
+<td valign="top" align="left">Opening</td>
+<td valign="top" align="left">Executive Secretary of the United Nations Economic Commission for Europe</td>
+</tr>
+<tr>
+<td valign="top" align="left">10.15 &#8211; 10.30</td>
+<td valign="top" align="left"><strong>Item 1:</strong> Adoption of the agenda</td>
+<td valign="top" align="left">Secretariat</td>
+</tr>
+<tr>
+<td valign="top" align="left">10.30 &#8211; 11:30</td>
+<td valign="top" align="left"><strong>Item 2:</strong> Elections</td>
+<td valign="top" align="left">Secretariat and Bureau</td>
+</tr>
+<tr>
+<td valign="top" align="left">11.30 &#8211; 12.00</td>
+<td valign="top" align="left"><strong>Item 3:</strong> Matters arising since the twenty-third session</td>
+<td valign="top" align="left">Secretariat</td>
+</tr>
+<tr>
+<td valign="top" align="left">12.00 &#8211; 13.00</td>
+<td valign="top" align="left"><strong>Item 4:</strong> Bureau overview of developments</td>
+<td valign="top" align="left">Bureau</td>
+</tr>
+<tr>
+<td valign="top" align="left">13.00 &#8211; 15.00</td>
+<td valign="top" align="left">
+<strong>Lunch break</strong>
+</td>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<td valign="top" align="left">15.00 &#8211; 15.30</td>
+<td valign="top" align="left"><strong>Item 5:</strong> Reports of rapporteurs</td>
+<td valign="top" align="left">Rapporteurs</td>
+</tr>
+<tr>
+<td valign="top" align="left">15.30 &#8211; 16:00</td>
+<td valign="top" align="left"><strong>Item 6:</strong> Activities of other United Nations Economic Commission for Europe bodies and international organizations of interest to United Nations Centre for Trade Facilitation and Electronic Business</td>
+<td valign="top" align="left">Secretariat</td>
+</tr>
+<tr>
+<td valign="top" align="left">16.00 &#8211; 17.30</td>
+<td valign="top" align="left"><strong>Item 7:</strong> United Nations Centre for Trade Facilitation and Electronic Business  recommendations and standards</td>
+<td valign="top" align="left">Bureau</td>
+</tr>
+<tr>
+<td valign="top" align="left">17.30 &#8211; 18.00</td>
+<td valign="top" align="left"><strong>Item 8:</strong> United Nations Centre for Trade Facilitation and Electronic Business structure, mandate, terms of reference, and procedures</td>
+<td valign="top" align="left">Secretariat and Bureau</td>
+</tr>
+<tr>
+<td colspan="3" valign="middle" align="center">
+<strong>Tuesday, 1 May</strong>
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">10:00 &#8211; 10:30</td>
+<td valign="top" align="left"><strong>Item 9:</strong> Advisory Group on the United Nations Code for Trade and Transport Locations</td>
+<td valign="top" align="left">Advisory Group Chair</td>
+</tr>
+<tr>
+<td valign="top" align="left">10:30 &#8211; 11:00</td>
+<td valign="top" align="left"><strong>Item 10:</strong>  Team of Specialists on Sustainable Fisheries</td>
+<td valign="top" align="left">Team of Specialists Chair</td>
+</tr>
+<tr>
+<td valign="top" align="left">11.00 &#8211; 12.30</td>
+<td valign="top" align="left"><strong>Item 11:</strong> Future challenges in trade facilitation
+and electronic business</td>
+<td valign="top" align="left">Secretariat</td>
+</tr>
+<tr>
+<td valign="top" align="left">12.30 &#8211; 13.00</td>
+<td valign="top" align="left"><strong>Item 12:</strong> Other business</td>
+<td valign="top" align="left">Chair</td>
+</tr>
+<tr>
+<td valign="top" align="left">13.00 &#8211; 15.00</td>
+<td valign="top" align="left">
+<strong>Lunch break</strong>
+</td>
+<td valign="top" align="left"/>
+</tr>
+<tr>
+<td valign="top" align="left">15.00 &#8211; 18.00</td>
+<td valign="top" align="left"><strong>Item 13:</strong> Adoption of decisions and draft report
+of the twenty-fourth session</td>
+<td valign="top" align="left">Secretariat</td>
+</tr>
+<tr>
+<td valign="top" align="left"/>
+<td valign="top" align="left">
+<strong>Closing</strong>
+</td>
+<td valign="top" align="left">Chair</td>
+</tr>
+</tbody>
+</table>
+</clause></sections>
+</un-standard>

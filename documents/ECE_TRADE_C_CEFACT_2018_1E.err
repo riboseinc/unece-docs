@@ -1,0 +1,97 @@
+/__w/mn-samples-un/mn-samples-un/site/documents/ECE_TRADE_C_CEFACT_2018_1E.err errors
+
+
+== Metanorma XML Style Warning
+
+(XML Line 000099): Hanging paragraph in clause
+	<clause id="_annotations" inline-header="false" obligation="normative"><title>Annotations</title><clause id="_openning" inline-header="false" obligation="normative"><title>Openning</title><p id="_55556ce8-d4a5-4120-b7d7-b0ff06b79edc">The provisional agenda and timetable for the twenty-fourth session of the United Nations Centre for Trade Facilitation and Electronic Business (UN/CEFACT) has been drawn up by the Bureau in consultation with the secretariat. It is based on the decisions adopted at the twenty-third session. There will be simultaneous interpretation into English, French and Russian.</p>
+	<p id="_ae65d292-993a-4e11-a02a-18369adfd6a0">The session will be opened by the Executive Secretary of the United Nations Economic Commission for Europe (UNECE).</p></clause>
+	<clause id="_item_1_adoption_of_the_agenda" inline-header="false" obligation="normative"><title>Item 1. Adoption of the agenda</title><table id="_b86eb1e6-f0d9-446c-9489-f6def9a60446" unnumbered="true">
+	<thead>
+	<tr>
+(XML Line 000101): Table should have title
+	<table id="_b86eb1e6-f0d9-446c-9489-f6def9a60446" unnumbered="true">
+	<thead>
+	<tr>
+	<th valign="top" align="left">
+	<em>Document title</em>
+(XML Line 000122): Table should have title
+	<table id="_e5d99731-7f10-4c52-9fe1-5c7bf3bef749" unnumbered="true">
+	<thead>
+	<tr>
+	<th valign="top" align="left">
+	<em>Document title</em>
+(XML Line 000144): Table should have title
+	<table id="_9de9abda-6dc7-4add-b37f-777fb031d788" unnumbered="true">
+	<thead>
+	<tr>
+	<th valign="top" align="left">
+	<em>Document title</em>
+(XML Line 000168): Table should have title
+	<table id="_40c3b53d-aa23-4233-a574-fa5ce77346f1" unnumbered="true">
+	<thead>
+	<tr>
+	<th valign="top" align="left">
+	<em>Document title</em>
+(XML Line 000197): Hanging paragraph in clause
+	<clause id="_item_7_recommendations_and_standards" inline-header="false" obligation="normative"><title>Item 7.	Recommendations and standards</title><clause id="_standards_for_approval" inline-header="false" obligation="normative"><title>Standards for approval</title><p id="_4d2e86af-a0f8-4b31-88db-873c0f00958a">The following standards will be presented to the Plenary for approval and delegations will have an opportunity to discuss these:</p>
+	<p id="_6c0d9218-ea90-4427-99e3-f2b42f7017b8">UN/EDIFACT Directory (Versions D.17A and D.17B)
+	(<link target="http://www.unece.org/tradewelcome/un-centre-for-trade-facilitation-and-e-business-uncefact/outputs/standards/unedifact/directories/2011-present.html"/>)</p>
+	<p id="_bae97f54-fa54-4b4b-8aef-bbd197ea4fff">UN/LOCODE Directory (Versions 2017-1 and 2017-2)
+	(<link target="http://www.unece.org/cefact/locode/welcome.html"/>)</p>
+(XML Line 000215): Table should have title
+	<table id="_daac3c98-55fe-4239-9d6a-1fb828a22cc2" unnumbered="true">
+	<thead>
+	<tr>
+	<th valign="top" align="left">
+	<em>Document title</em>
+(XML Line 000261): Table should have title
+	<table id="_996df840-9c81-4aaa-a7cf-9ae438f81458" unnumbered="true">
+	<thead>
+	<tr>
+	<th valign="top" align="left">
+	<em>Document title</em>
+(XML Line 000320): Table should have title
+	<table id="_a1fe6074-acaa-4c81-abe2-96b151381705" unnumbered="true">
+	<thead>
+	<tr>
+	<th valign="top" align="left">
+	<em>Document title</em>
+(XML Line 000342): Table should have title
+	<table id="_b0e92bf9-e17a-40d5-853d-e1f689bc5239" unnumbered="true">
+	<thead>
+	<tr>
+	<th valign="top" align="left">
+	<em>Document title</em>
+(XML Line 000369): Table should have title
+	<table id="_200782dc-b809-45e0-ae2d-61d78d428903" unnumbered="true">
+	<thead>
+	<tr>
+	<th valign="top" align="left">
+	<em>Document title</em>
+(XML Line 000402): Table should have title
+	<table id="_0bd5f690-b587-44cc-9fbf-424922cda1db" unnumbered="true">
+	<thead>
+	<tr>
+	<th valign="top" align="left">
+	<em>Document title</em>
+(XML Line 000440): Table should have title
+	<table id="_1dfd4b79-598f-44c5-a6b2-924e9c798455" unnumbered="true">
+	<thead>
+	<tr>
+	<th valign="top" align="left">
+	<em>Document title</em>
+(XML Line 000465): Table should have title
+	<table id="_5cbc03ea-0115-4749-aaaa-e0152e8874d6" unnumbered="true">
+	<tbody>
+	<tr>
+	<th valign="middle" align="center">
+	<em>Date and time</em>
+
+
+== Metanorma XML Syntax
+
+(XML Line 000041:37): character content of element "distribution" invalid; must be equal to "general", "limited", "provisional" or "restricted"
+(XML Line 000044:43): character content of element "date" invalid; must be a string matching the regular expression "([\+\-]?\d{4})((-?)((0[1-9]|1[0-2])((-?)([12]\d|0[1-9]|3[01]))?|W([0-4]\d|5[0-2])(-?[1-7])?|(00[1-9]|0[1-9]\d|[12]\d{2}|3([0-5]\d|6[1-6]))))?"
+(XML Line 000044:7): element "date" not allowed here; expected the element end-tag or element "agenda-id", "collaborator", "item-footnote", "item-name", "item-number", "session-date" or "subitem-name"
+(XML Line 000045:5): element "id" not allowed here; expected the element end-tag or element "agenda-id", "collaborator", "item-footnote", "item-name", "item-number", "session-date" or "subitem-name"

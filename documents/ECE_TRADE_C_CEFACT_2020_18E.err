@@ -1,0 +1,99 @@
+/__w/mn-samples-un/mn-samples-un/site/documents/ECE_TRADE_C_CEFACT_2020_18E.err errors
+
+
+== Document Attributes
+
+(): program-of-work is not a legal document type: reverting to 'recommendation'
+
+
+== Metanorma XML Style Warning
+
+(XML Line 000052): Hanging paragraph in clause
+	<clause id="_background" inline-header="false" obligation="normative"><title>Background</title><clause id="_fd92506e-0532-4714-a89f-320898615097" inline-header="true" obligation="normative"><p id="_aafa0a7b-8dfe-43d3-8c1e-ce61e145d0ed">The United Nations Centre for Trade Facilitation and Electronic Business (UN/CEFACT) has proposed the establishment of an Advisory Group in order to advise and support the United Nations Economic Commission for Europe (UNECE) Secretariat and UN/CEFACT on advanced technologies in trade facilitation and electronic business. The technologies in question include blockchain, the Internet of Things (IoT), and Artificial Intelligence (AI). These are the most recent areas of rapid development in the international supply chain.</p></clause>
+	<clause id="_3cc8b92d-65a5-4a52-a8ab-12c751d499ca" inline-header="true" obligation="normative"><p id="_b2610c66-40bc-4731-a15c-6218556c6e88">Technology is evolving faster than ever before in human history. We are at the intersection of several cutting-edge technologies that are redefining interactions between the physical and virtual world, driving disruption and enabling new business modes. The importance of technology innovation is recognized by the international community in Sustainable Development Goal 17: Strengthen the means of implementation and revitalize the global partnership for sustainable development.</p></clause>
+	<clause id="_54aff127-6ea9-4958-9d3e-eab5658f162a" inline-header="true" obligation="normative"><p id="_00205bb1-7e5a-449f-8ab5-d85b7b0fc0c9">Technologies such as Distributed Ledger Technology, Artificial Intelligence, the Internet of Things, Quantum Computing, Edge computing, 5G and connectivity related ones, hold significant promise for trade facilitation. Given these cutting-edge developments in technology, it becomes important to keep up to date with the latest trends to evaluate which trends and approaches may be viable for future developments, investments and practical implementation.</p></clause></clause>
+(XML Line 000055): Hanging paragraph in clause
+	<clause id="_introduction" inline-header="false" obligation="normative">
+	<title>Introduction</title>
+	<clause id="_2fb29a5a-a5c3-422c-b5f4-06aeb11b2cfe" inline-header="true" obligation="normative"><p id="_fc0e424d-b9ca-4710-9806-8207544656e3">The present document sets out the Programme of Work for the Advisory Group on Advanced Technologies in Trade and Logistics for 2020-2021.</p></clause>
+	</clause>
+(XML Line 000059): Hanging paragraph in clause
+	<clause id="_vision_statement" inline-header="false" obligation="normative"><title>Vision statement</title><clause id="_efaac3df-5827-41df-b790-8b5c5ad34e28" inline-header="true" obligation="normative"><p id="_2dc312c0-2772-4769-9a00-20be18adab77">The work of the Advisory Group will be instrumental in</p><ul id="_9861fd1e-3ba7-473a-960e-d635a39c089c">
+	<li>
+	<p id="_b54d3bcc-a676-4538-a1f0-6ff4b743137c">achieving an effective and efficient analysis of advanced technologies related to trade and logistics and the subsequent business needs and opportunities for all stakeholders;</p>
+	</li>
+	<li>
+(XML Line 000074): Hanging paragraph in clause
+	<clause id="_mission_statement" inline-header="false" obligation="normative"><title>Mission statement</title><clause id="_10d378e5-2785-463c-b9c9-52649836a924" inline-header="true" obligation="normative"><p id="_63efd819-80be-447a-9b31-229313380522">The Advisory Group will monitor the latest enabling technology developments and trends relevant for trade and logistics; study the potential impact of these technologies on standards, business models and operations; and identify implementation challenges and best practices learned by overcoming these challenges. In particular, the Advisory Group will prepare regular reports on the latest technology trends and the way they may impact relevant trade and logistic areas.</p></clause>
+	<clause id="_6fdfe6f2-f06f-4a0a-95cf-4f4b43ff841a" inline-header="true" obligation="normative"><p id="_a4ed4042-4962-4bbe-b958-150d6a6624b1">In a collaborative environment, together with other relevant entities and organizations, the members of this Advisory Group will work to analyze the latest technology trends, share experiences in development and implementation issues, and facilitate and support the best practices for overcoming these issues.</p></clause>
+	<clause id="_050f17a7-434e-474c-b00f-bd87139d0f3d" inline-header="true" obligation="normative"><p id="_5a04858e-8afc-4a05-8110-55bfc470714d">The Advisory Group will give advice and conduct support activities regarding policymaking and technical implementation of advanced technologies.</p></clause>
+	<clause id="_12431c70-3b9d-4164-94ec-74b191686bfb" inline-header="true" obligation="normative"><p id="_35aae886-f33d-468e-bdf1-b01e8ac5d015">The Advisory Group will contribute to information and knowledge exchange between all relevant stakeholders and provide outreach to other partner organizations in the areas of trade and logistics, management organizations and technical communities.</p></clause>
+	<clause id="_7d1afdb9-cfd3-4f9e-b162-c828c10034f5" inline-header="true" obligation="normative"><p id="_29343514-3d67-4068-83de-5f4f77dbb8bf">The Advisory Group will propose new project developments to be taken up within UN/CEFACT under the Open Development Process (ECE/TRADE/C/CEFACT/2016/17), identify needs for updating existing deliverables and propose ways they could be updated to address findings from emerging technology analysis.</p></clause>
+(XML Line 000094): Hanging paragraph in clause
+	<clause id="_scope_overall_objective_activities_work_areas" inline-header="false" obligation="normative"><title>Scope, overall objective, activities, work areas</title><clause id="_scope" inline-header="false" obligation="normative"><title>Scope</title><clause id="_4631ce6b-32ae-4b87-8338-bce00a85534f" inline-header="true" obligation="normative"><p id="_449befe1-cae3-49ec-8d05-afd293163f4f">The work of the Advisory Group shall have a scope that potentially covers all United Nations Member States, international trade organizations and other organizations involved in technological development and technological implementation activities. It encompasses activities in support of sustainable trade and sustainable economic development.</p></clause>
+	<clause id="_63d7d4af-d715-4df7-b3fa-e8cefbe35cce" inline-header="true" obligation="normative"><p id="_eecc2d01-dd3e-4730-845b-91e7ed8e6c04">It does so by monitoring and analyzing technology trends in trade and logistics and relevant business areas such as digital identity and trustworthiness, security, interoperability and others, promoting, facilitating and supporting the implementation of technology standards, including proposing any necessary development of such standards.</p></clause>
+	<clause id="_a3ef5f4e-4c60-48f8-b553-f328dd3714e4" inline-header="true" obligation="normative"><p id="_893d87d3-a7f2-4cb1-95c2-36150f8874b3">The Programme of Work is linked to the Terms of Reference (ECE/EX/2/Rev.1) as approved at the thirty-fifth meeting of the UNECE EXCOM (31 March 2010).</p></clause></clause>
+	<clause id="_objective" inline-header="false" obligation="normative">
+	<title>Objective</title>
+(XML Line 000094): Hanging paragraph in clause
+	<clause id="_scope" inline-header="false" obligation="normative"><title>Scope</title><clause id="_4631ce6b-32ae-4b87-8338-bce00a85534f" inline-header="true" obligation="normative"><p id="_449befe1-cae3-49ec-8d05-afd293163f4f">The work of the Advisory Group shall have a scope that potentially covers all United Nations Member States, international trade organizations and other organizations involved in technological development and technological implementation activities. It encompasses activities in support of sustainable trade and sustainable economic development.</p></clause>
+	<clause id="_63d7d4af-d715-4df7-b3fa-e8cefbe35cce" inline-header="true" obligation="normative"><p id="_eecc2d01-dd3e-4730-845b-91e7ed8e6c04">It does so by monitoring and analyzing technology trends in trade and logistics and relevant business areas such as digital identity and trustworthiness, security, interoperability and others, promoting, facilitating and supporting the implementation of technology standards, including proposing any necessary development of such standards.</p></clause>
+	<clause id="_a3ef5f4e-4c60-48f8-b553-f328dd3714e4" inline-header="true" obligation="normative"><p id="_893d87d3-a7f2-4cb1-95c2-36150f8874b3">The Programme of Work is linked to the Terms of Reference (ECE/EX/2/Rev.1) as approved at the thirty-fifth meeting of the UNECE EXCOM (31 March 2010).</p></clause></clause>
+(XML Line 000097): Hanging paragraph in clause
+	<clause id="_objective" inline-header="false" obligation="normative">
+	<title>Objective</title>
+	<clause id="_e310642f-5e97-4414-ba04-b3ca9d242307" inline-header="true" obligation="normative"><p id="_111e17f3-6c08-4838-b510-c077027f38e0">The purpose of the Advisory Group is to advise on advanced technologies such as blockchain and IoT, as well as implementation challenges (i.e. regulatory obstacles). This includes the potential impact of these technologies on standards, services and everyday electronic data exchange operations.</p></clause>
+	</clause>
+(XML Line 000101): Hanging paragraph in clause
+	<clause id="_activities" inline-header="false" obligation="normative"><title>Activities</title><clause id="_3d610bc6-46ae-44ae-b591-167955def3ac" inline-header="true" obligation="normative"><p id="_bf07c17f-b55c-4368-aa56-2326ed16e8f8">The Advisory Group aims to support UN/CEFACT in achieving this objective by:</p><ol id="_5b1cba15-b037-47c1-8fe8-0f1374eb2602" type="arabic">
+	<li>
+	<p id="_a28b2574-871b-4c3b-bd92-9ca6e10d8869">monitoring the business needs related to these technologies and how they relate back to UN/CEFACT and its deliverables;</p>
+	</li>
+	<li>
+(XML Line 000123): Hanging paragraph in clause
+	<clause id="_work_areas" inline-header="false" obligation="normative"><title>Work areas</title><clause id="_34a9c573-915c-439c-b9be-cb11a02b6f05" inline-header="true" obligation="normative"><p id="_1b618f90-89f7-4f73-83c9-3880bd290fea">The Programme of work is structured around the following work areas (WA):</p><ul id="_e07b915c-eb01-47ad-acfe-2d4e8237fe81">
+	<li>
+	<p id="_52f5bb20-49a8-4997-a4be-fd966b798fde">WA1: Technical monitoring, assessment and advice.</p>
+	</li>
+	<li>
+(XML Line 000138): Hanging paragraph in clause
+	<clause id="_wa1_technical_monitoring_assessment_and_advice" inline-header="false" obligation="normative">
+	<title>WA1: Technical monitoring, assessment and advice</title>
+	<clause id="_61f7b3d9-8c3c-4cf0-9749-3f97c37fa103" inline-header="true" obligation="normative"><p id="_fd3dbf2e-e097-4b94-9bad-9e27bdec0a55">This Work Area involves monitoring and analyzing current and emerging technologies used in the trade and logistics areas. This Work Area encompasses active engagement with technology leaders, developers and early adopters on a global scale by contributing to events on technology developments related to trade and by contacting authorities, standardization organizations and academia.</p></clause>
+	</clause>
+(XML Line 000142): Hanging paragraph in clause
+	<clause id="_wa2_implementation_challenges_and_good_practices" inline-header="false" obligation="normative">
+	<title>WA2: Implementation challenges and good practices</title>
+	<clause id="_46f5bc01-e280-44ee-b55d-cb630b5a29b3" inline-header="true" obligation="normative"><p id="_d58623c2-8d8d-4cda-a737-be7b3cb8ea1f">The Work Area on implementation challenges and advice facilitates and supports the implementation of relevant advanced technologies on business, interoperability, legal and technical levels. The Advisory Group shall contribute by identifying and advising on business, legal and technical implementation issues related to technology and sharing best practices with a specific focus on support for decision-making.</p></clause>
+	</clause>
+(XML Line 000146): Hanging paragraph in clause
+	<clause id="_wa3_support_strategic_dialogue_with_key_external_stakeholders" inline-header="false" obligation="normative"><title>WA3: Support strategic dialogue with key external stakeholders</title><clause id="_1bfa18ec-cfcb-46bb-be89-19c5d24c7538" inline-header="true" obligation="normative"><p id="_ca136221-6793-458e-b418-a9fac4794e09">Activities of this Work Area are as follows:</p><ul id="_4744f6ca-6a0f-46c1-8a3a-8d93b34866da">
+	<li>
+	<p id="_d765b083-5053-4d78-bbfb-c95d78c4c745">Creating the content for UNECE website of the Advisory Group (maintenance, content and design, including possible use of social media and videos)</p>
+	</li>
+	<li>
+(XML Line 000161): Hanging paragraph in clause
+	<clause id="_wa4_proposals_for_new_development" inline-header="false" obligation="normative">
+	<title>WA4: Proposals for new development</title>
+	<clause id="_8fdb1322-7ef8-4a71-84c7-e6860f0347db" inline-header="true" obligation="normative"><p id="_1432f734-c16a-4c23-9549-4bc9bf2f7c5b">The Advisory Group shall identify areas where new standards or guidance material are necessary and propose such work items to be launched within UN/CEFACT under the Open Development Process (ECE/TRADE/C/CEFACT/2016/17) procedure for project development.</p></clause>
+	</clause>
+(XML Line 000165): Hanging paragraph in clause
+	<clause id="_governance" inline-header="false" obligation="normative"><title>Governance</title><clause id="_543bdbfa-bc77-4cef-9107-7866485ae650" inline-header="true" obligation="normative"><p id="_87e3e6af-af95-42a1-86d5-6e2fa4689cf6">Participation in the Advisory Group will be on a self-funded, voluntary basis. All members of the Advisory Group must register as experts of UN/CEFACT in accordance with relevant procedures. All contributions to the work of the Advisory Group are in the context of the UN/CEFACT Intellectual Property Rights Policy (ECE/TRADE/C/CEFACT/2010/20/Rev.2), the Code of Conduct (ECE/TRADE/C/CEFACT/2010/18/Rev.1) and the overarching UN/CEFACT Mandate and Terms of Reference (ECE/TRADE/C/CEFACT/2017/15).</p></clause>
+	<clause id="_b87e9a32-7732-4c43-bb39-43526cfdf0cb" inline-header="true" obligation="normative"><p id="_31493284-d5bd-4439-babd-dc5a13367fb2">The Advisory Group appoints its Chair and Vice-Chair(s) for a mandate of two years, in accordance with the Guidelines for the establishment and functioning of Teams of Specialists (UNECE ECE/EX/2/Rev.1).</p></clause>
+	<clause id="_51e8216a-bec7-446c-9b8a-cdd3534e9669" inline-header="true" obligation="normative"><p id="_fbc16c51-c4d8-4a80-9379-47c7f315b8e8">The Advisory Group will plan at least one face-to-face meeting per year and virtual meetings as necessary.</p></clause>
+	<clause id="_f85a4cac-c32c-4f5f-9dec-d630dcdeb447" inline-header="true" obligation="normative"><p id="_c0627fd5-734d-40f8-83d7-b51d3a470d52">It is the responsibility of the Chair that the objectives of the Group are met, and all relevant procedures properly applied including this Programme of Work.</p></clause>
+	<clause id="_6ae10742-d752-4e5e-ad98-49ae1aa9ebba" inline-header="true" obligation="normative"><p id="_0f501e9a-0dc6-4ffa-890a-c12ac60c3a1e">The UNECE Secretariat provides necessary support to the Advisory Group within available resources.</p></clause></clause>
+(XML Line 000170): Hanging paragraph in clause
+	<clause id="_reporting" inline-header="false" obligation="normative">
+	<title>Reporting</title>
+	<clause id="_89f060fa-9d0d-4317-8781-aa20df301ebc" inline-header="true" obligation="normative"><p id="_a8355c00-8321-4aea-9032-2799e143d657">The Advisory Group will report to the UN/CEFACT Plenary annually and will keep the UN/CEFACT Plenary Bureau informed of its activities.</p></clause>
+	</clause>
+
+
+== Metanorma XML Syntax
+
+(XML Line 000020:48): character content of element "revision-date" invalid; must be a string matching the regular expression "([\+\-]?\d{4})((-?)((0[1-9]|1[0-2])((-?)([12]\d|0[1-9]|3[01]))?|W([0-4]\d|5[0-2])(-?[1-7])?|(00[1-9]|0[1-9]\d|[12]\d{2}|3([0-5]\d|6[1-6]))))?"
+(XML Line 000041:37): character content of element "distribution" invalid; must be equal to "general", "limited", "provisional" or "restricted"
+(XML Line 000044:34): character content of element "date" invalid; must be a string matching the regular expression "([\+\-]?\d{4})((-?)((0[1-9]|1[0-2])((-?)([12]\d|0[1-9]|3[01]))?|W([0-4]\d|5[0-2])(-?[1-7])?|(00[1-9]|0[1-9]\d|[12]\d{2}|3([0-5]\d|6[1-6]))))?"
+(XML Line 000044:7): element "date" not allowed here; expected the element end-tag or element "agenda-id", "collaborator", "item-footnote", "item-name", "item-number", "session-date" or "subitem-name"
+(XML Line 000047:5): element "id" not allowed here; expected the element end-tag or element "agenda-id", "collaborator", "item-footnote", "item-name" or "subitem-name"

@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<un-standard xmlns="https://www.metanorma.org/ns/un" type="presentation" version="0.6.5">
+<bibdata type="standard">
+<title type="main" language="en" format="text/plain">Annotated provisional agenda</title>
+
+
+<contributor>
+<role type="author"/>
+<organization>
+<name>United Nations</name>
+</organization>
+</contributor>
+<contributor>
+<role type="publisher"/>
+<organization>
+<name>United Nations</name>
+</organization>
+</contributor>
+<version>
+<revision-date>30 January 2020</revision-date>
+</version>
+<language current="true">en</language>
+<script current="true">Latn</script>
+<status>
+<stage language="">published</stage>
+</status>
+<copyright>
+<from>2019</from>
+<owner>
+<organization>
+<name>United Nations</name>
+</organization>
+</owner>
+</copyright>
+<ext>
+<doctype language="">agenda</doctype>
+<editorialgroup>
+<committee>Centre for Trade Facilitation and Electronic Business</committee>
+</editorialgroup>
+<distribution>General</distribution>
+<session>
+<number>1</number>
+<date>Geneva, 30 January 2020</date>
+<item-number>1 of the provisional agenda</item-number>
+<item-name>Advisory Group on Advanced Technologies</item-name>
+<id>ECE/AGAT/2020/INF.1</id>
+</session>
+</ext>
+</bibdata><localized-strings><localized-string key="scope" language="en">Scope</localized-string><localized-string key="symbolsabbrev" language="en">Symbols and abbreviated terms</localized-string><localized-string key="abbrev" language="en">Abbreviated terms</localized-string><localized-string key="symbols" language="en">Symbols</localized-string><localized-string key="table_of_contents" language="en">Table of contents</localized-string><localized-string key="introduction" language="en">Introduction</localized-string><localized-string key="foreword" language="en">Foreword</localized-string><localized-string key="abstract" language="en">Summary</localized-string><localized-string key="acknowledgements" language="en">Acknowledgements</localized-string><localized-string key="termsdef" language="en">Terms and definitions</localized-string><localized-string key="termsdefsymbolsabbrev" language="en">Terms, definitions, symbols and abbreviated terms</localized-string><localized-string key="termsdefsymbols" language="en">Terms, definitions and symbols</localized-string><localized-string key="termsdefabbrev" language="en">Terms, definitions and abbreviated terms</localized-string><localized-string key="normref" language="en">Normative references</localized-string><localized-string key="bibliography" language="en">Bibliography</localized-string><localized-string key="preface" language="en">Preface</localized-string><localized-string key="clause" language="en">Clause</localized-string><localized-string key="annex" language="en">Annex</localized-string><localized-string key="appendix" language="en">Appendix</localized-string><localized-string key="no_terms_boilerplate" language="en"><p>No terms and definitions are listed in this document.</p>
+</localized-string><localized-string key="internal_terms_boilerplate" language="en"><p>For the purposes of this document, 
+    the following terms and definitions apply.</p>
+</localized-string><localized-string key="norm_with_refs_pref" language="en">The following documents are referred to in the text in such a way that some or all of their content constitutes requirements of this document. For dated references, only the edition cited applies. For undated references, the latest edition of the referenced document (including any amendments) applies.</localized-string><localized-string key="norm_empty_pref" language="en">There are no normative references in this document.</localized-string><localized-string key="external_terms_boilerplate" language="en"><p>For the purposes of this document, 
+  the terms and definitions given in % apply.</p>
+</localized-string><localized-string key="internal_external_terms_boilerplate" language="en"><p>For the purposes of this document, the terms and definitions 
+  given in % and the following apply.</p>
+</localized-string><localized-string key="term_defined_in" language="en">[term defined in %]</localized-string><localized-string key="note" language="en">NOTE</localized-string><localized-string key="note_xref" language="en">Note</localized-string><localized-string key="termnote" language="en">Note % to entry</localized-string><localized-string key="list" language="en">List</localized-string><localized-string key="figure" language="en">Figure</localized-string><localized-string key="formula" language="en">Formula</localized-string><localized-string key="inequality" language="en">Formula</localized-string><localized-string key="table" language="en">Table</localized-string><localized-string key="requirement" language="en">Requirement</localized-string><localized-string key="recommendation" language="en">Recommendation</localized-string><localized-string key="permission" language="en">Permission</localized-string><localized-string key="key" language="en">Key</localized-string><localized-string key="example" language="en">EXAMPLE</localized-string><localized-string key="example_xref" language="en">Example</localized-string><localized-string key="where" language="en">where</localized-string><localized-string key="wholeoftext" language="en">Whole of text</localized-string><localized-string key="draft_label" language="en">draft</localized-string><localized-string key="inform_annex" language="en">informative</localized-string><localized-string key="norm_annex" language="en">normative</localized-string><localized-string key="modified" language="en">modified</localized-string><localized-string key="deprecated" language="en">DEPRECATED</localized-string><localized-string key="source" language="en">SOURCE</localized-string><localized-string key="and" language="en">and</localized-string><localized-string key="all_parts" language="en">All Parts</localized-string><localized-string key="month_january" language="en">January</localized-string><localized-string key="month_february" language="en">February</localized-string><localized-string key="month_march" language="en">March</localized-string><localized-string key="month_april" language="en">April</localized-string><localized-string key="month_may" language="en">May</localized-string><localized-string key="month_june" language="en">June</localized-string><localized-string key="month_july" language="en">July</localized-string><localized-string key="month_august" language="en">August</localized-string><localized-string key="month_september" language="en">September</localized-string><localized-string key="month_october" language="en">October</localized-string><localized-string key="month_november" language="en">November</localized-string><localized-string key="month_december" language="en">December</localized-string><localized-string key="obligation" language="en">Obligation</localized-string><localized-string key="subject" language="en">Subject</localized-string><localized-string key="inherits" language="en">Inherits</localized-string><localized-string key="admonition" language="en">Box</localized-string><localized-string key="locality.section" language="en">Section</localized-string><localized-string key="locality.clause" language="en">Clause</localized-string><localized-string key="locality.part" language="en">Part</localized-string><localized-string key="locality.paragraph" language="en">Paragraph</localized-string><localized-string key="locality.chapter" language="en">Chapter</localized-string><localized-string key="locality.page" language="en">Page</localized-string><localized-string key="locality.table" language="en">Table</localized-string><localized-string key="locality.annex" language="en">Annex</localized-string><localized-string key="locality.figure" language="en">Figure</localized-string><localized-string key="locality.example" language="en">Example</localized-string><localized-string key="locality.note" language="en">Note</localized-string><localized-string key="locality.formula" language="en">Formula</localized-string><localized-string key="Clause.sg" language="en">Clause</localized-string><localized-string key="Clause.pl" language="en">Clauses</localized-string><localized-string key="Annex.sg" language="en">Annex</localized-string><localized-string key="Annex.pl" language="en">Annexes</localized-string><localized-string key="Appendix.sg" language="en">Appendix</localized-string><localized-string key="Appendix.pl" language="en">Appendixes</localized-string><localized-string key="Note.sg" language="en">Note</localized-string><localized-string key="Note.pl" language="en">Notes</localized-string><localized-string key="Note_%_to_entry.sg" language="en">Note % to entry</localized-string><localized-string key="Note_%_to_entry.pl" language="en">Notes % to entry</localized-string><localized-string key="List.sg" language="en">List</localized-string><localized-string key="List.pl" language="en">Lists</localized-string><localized-string key="Figure.sg" language="en">Figure</localized-string><localized-string key="Figure.pl" language="en">Figures</localized-string><localized-string key="Formula.sg" language="en">Formula</localized-string><localized-string key="Formula.pl" language="en">Formulas</localized-string><localized-string key="Table.sg" language="en">Table</localized-string><localized-string key="Table.pl" language="en">Tables</localized-string><localized-string key="Requirement.sg" language="en">Requirement</localized-string><localized-string key="Requirement.pl" language="en">Requirements</localized-string><localized-string key="Recommendation.sg" language="en">Recommendation</localized-string><localized-string key="Recommendation.pl" language="en">Recommendations</localized-string><localized-string key="Permission.sg" language="en">Permission</localized-string><localized-string key="Permission.pl" language="en">Permissions</localized-string><localized-string key="Example.sg" language="en">Example</localized-string><localized-string key="Example.pl" language="en">Examples</localized-string><localized-string key="Part.sg" language="en">Part</localized-string><localized-string key="Part.pl" language="en">Parts</localized-string><localized-string key="Section.sg" language="en">Section</localized-string><localized-string key="Section.pl" language="en">Sections</localized-string><localized-string key="Paragraph.sg" language="en">Paragraph</localized-string><localized-string key="Paragraph.pl" language="en">Paragraphs</localized-string><localized-string key="Chapter.sg" language="en">Chapter</localized-string><localized-string key="Chapter.pl" language="en">Chapters</localized-string><localized-string key="Page.sg" language="en">Page</localized-string><localized-string key="Page.pl" language="en">Pages</localized-string><localized-string key="paragraph" language="en">paragraph</localized-string><localized-string key="language" language="en">en</localized-string><localized-string key="script" language="en">Latn</localized-string></localized-strings>
+<boilerplate>
+  <copyright-statement>
+    <clause>
+      <p id="boilerplate-ECEhdr">ECE/TRADE/437</p>
+      <p id="_ab65512b-1e5a-45f0-bb87-d398e4ea3dcd">Copyright &#169; United Nations 2019<br/>
+        All rights reserved worldwide<br/>
+        United Nations publication issued by the Economic Commission for Europe</p>
+    </clause>
+  </copyright-statement>
+  <license-statement>
+    <clause>
+      <p id="_60543e82-8e98-4e5c-88d2-665af10381f0">None of the materials provided on this web site may be used,
+        reproduced or transmitted, in whole or in part, in any form or by any
+        means, electronic or mechanical, including photocopying, recording or
+        the use of any information storage and retrieval system, except as
+        provided for in the Terms and Conditions of Use of United Nations Web
+        Sites, without permission in writing from the publisher.</p>
+
+      <p id="_cc5c35fe-43c5-4d06-8e46-e6a850275cb2">News-related material can be used as long as the appropriate credit is given and the United Nations is advised.</p>
+      <p id="_fb78372b-c7b7-4b06-872e-20e910e4a13e">To request such permission or for further enquires, please visit:
+        <link target="https://shop.un.org/rights-permissions">United Nations Publications: Rights and Permissions.</link></p>
+    </clause>
+  </license-statement>
+  <legal-statement>
+    <clause>
+      <clause>
+        <title depth="1">Note</title>
+        <p id="_5c8ac890-fdef-42f8-a7df-e92c2276fd75">The designations employed and the presentation of the material in this publication do not imply the expression of any opinion whatsoever on the part of the Secretariat of the United Nations concerning the legal status of any country, territory, city or area, or of its authorities, or concerning the delimitation of its frontiers or boundaries.</p>
+      </clause>
+
+      
+    </clause>
+  </legal-statement>
+  <feedback-statement>
+    <clause>
+      <p id="boilerplate-feedback-name">UN Economic Commission for Europe: Information Service</p>
+      <p id="boilerplate-feedback-address">
+        
+        Palais des Nations<br/>
+        CH-1211 Geneva 10<br/>
+        Switzerland<br/>
+        <br/>
+        <link target="tel:+41(0)229171234">+41 (0) 22 917 12 34 (switchboard)</link><br/>
+               
+        <link target="mailto:unece_info@un.org">unece_info@un.org</link><br/>
+        <link target="https://www.unece.org/">www.unece.org/</link>
+      </p>
+    </clause>
+  </feedback-statement>
+</boilerplate>
+
+
+<sections><clause id="_provisional_agenda_for_reasons_of_economy_delegates_are_requested_to_bring_copies_of_all_relevant_documents_to_the_session_there_will_be_no_documentation_available_in_the_conference_room_before_the_session_documents_may_be_downloaded_from_the_unece_website_all_delegates_are_requested_to_complete_the_online_registration_form_available_on_the_unece_website_upon_arrival_at_the_palais_des_nations_delegates_should_obtain_an_identification_badge_at_the_unog_security_and_safety_section_located_at_the_pregny_gate_14_av_de_la_paix_in_case_of_difficulty_please_contact_the_secretariat_by_telephone_ext_73254_for_a_map_of_the_palais_des_nations_and_other_useful_information_see_the_website" inline-header="false" obligation="normative" displayorder="1">
+<title depth="1">I.<tab/>Provisional agenda<fn reference="1"><p id="_8a28914f-20fc-4155-9c5b-e57cb99bab84">For reasons of economy, delegates are requested to bring copies of all relevant documents to the session. There will be no documentation available in the conference room. Before the session, documents may be downloaded from the UNECE website (<link target="http://www.unece.org/uncefact/atag-1stsession-2020"/>).</p></fn>,<fn reference="2"><p id="_f9c18e39-e0d5-43fc-9c7d-9c893550970a">All delegates are requested to complete the online registration form available on the UNECE website (<link target="http://www.unece.org/uncefact/atag-1stsession-2020"/>). Upon arrival at the Palais des Nations, delegates should obtain an identification badge at the UNOG Security and Safety Section, located at the Pregny Gate (14, Av. de la Paix). In case of difficulty, please contact the secretariat by telephone (ext. 73254). For a map of the Palais des Nations and other useful information, see the website: <link target="https://www.unece.org/meetings/practical.html"/>.</p></fn></title>
+<ol id="_f501b9b8-8365-402f-acf1-5b994c0e8441" type="arabic">
+<li>
+<p id="_19581095-3ffa-4da4-9b03-94c14cf132f6">Adoption of the agenda</p>
+</li>
+<li>
+<p id="_29426d9b-bdd6-463d-9f75-3cef193d6011">Appointment of Chair and Vice-Chairs</p>
+</li>
+<li>
+<p id="_dfb9bfb5-18da-436f-adf4-9e0eb36ba923">Panel on Transformative Technologies in Trade and Logistics</p>
+</li>
+<li>
+<p id="_2d8564e7-5084-4876-b5dd-b60f6c649e4e">Panel discussion on obstacles and challenges</p>
+</li>
+<li>
+<p id="_27e4819b-949d-4bc1-b3ad-3fa05a775b72">Vision, Mission and Programme of Work</p>
+</li>
+<li>
+<p id="_b390e46a-bdb2-4290-8895-eab9c584deb3">Future work</p>
+</li>
+<li>
+<p id="_effc2ad7-82e4-4a9c-8247-d150af03f089">Other business</p>
+</li>
+<li>
+<p id="_4a128385-7531-46bc-b4e2-0cd4f057f2cd">Adoption of decisions and the report of the first session</p>
+</li>
+</ol>
+</clause>
+<clause id="_annotations" inline-header="false" obligation="normative" displayorder="2"><title depth="1">II.<tab/>Annotations</title><clause id="_opening" inline-header="false" obligation="normative">
+<title depth="2">1.<tab/>Opening</title>
+<p id="_95e6bc15-573b-411e-874d-07c268b74e3f">The session will be opened by the Director of the Economic Cooperation and Trade Division of the United Nations Economic Commission for Europe (UNECE).</p>
+</clause>
+<clause id="_item_1_adoption_of_the_agenda" inline-header="false" obligation="normative"><title depth="2">2.<tab/>Item 1. Adoption of the agenda</title><p id="_0170dce1-cf20-4463-bfae-6ec0a62be5d4">The secretariat will present the draft agenda for adoption.</p>
+<p id="_dc4b926f-59fa-4eac-8722-f56b11dff15c"><em>Documentation</em>:</p>
+<p id="_c1bdddb1-62a6-4cda-8baf-93925e123773">Informal document ECE/AGAT/2020/INF.1</p></clause>
+<clause id="_item_2_appointment_of_the_officers" inline-header="false" obligation="normative"><title depth="2">3.<tab/>Item 2. Appointment of the Officers</title><p id="_974b91d3-7a52-4828-87f5-ffe80dd3c84e">In line with its Mandate and Terms of Reference (ECE/TRADE/C/CEFACT/2019/22/Rev.1), the Advisory Group will appoint its Chair and eventually Vice Chair (s) in accordance with the Guidelines for the establishment and functioning of teams of specialists (ECE/EX/2/Rev.1).</p>
+<p id="_e9947918-55cc-4618-b3ed-cff8b51d1f2b">Candidates must be physically present and will be given an opportunity to present themselves. Official country delegates (one officially appointed delegate per country) who are physically present may participate in the election.</p>
+<p id="_2dc1a071-a9ea-48ee-b90f-45e747b48af0"><em>Documentation</em>:</p>
+<p id="_7ab68ba4-7107-489b-a230-27d2129559d8">ECE/TRADE/C/CEFACT/2019/22/Rev.1<br/>
+ECE/EX/2/Rev.1</p></clause>
+<clause id="_item_3_panel_on_transformative_technologies_in_trade_and_logistics" inline-header="false" obligation="normative"><title depth="2">4.<tab/>Item 3. Panel on Transformative Technologies in Trade and Logistics</title><p id="_f12bece8-fcfe-4a95-83ce-6d105364316d">Managers and high-level experts from the public and private sectors who are involved in technology implementation will make presentations on the potential of specific technologies in trade and logistics as well as presenting use cases where the implementation challenges will be highlighted.  The technologies which will be covered include: the Internet of Things, Big Data, Artificial Intelligence (AI) and Machine Learning, Blockchain and Distributed Ledger Technology (DLT) and Interoperability Tools such as Application Programming Interfaces (APIs).</p>
+<p id="_4926e84d-37bf-4bc5-af6e-a8256400bc2f"><em>Documentation</em>:</p>
+<p id="_f89771af-f49e-4a4f-a632-aa9d6e1d789d">ECE/TRADE/C/CEFACT/2019/8<br/>
+ECE/TRADE/C/CEFACT/2019/9<br/>
+ECE/TRADE/C/CEFACT/2019/10<br/>
+ECE/TRADE/C/CEFACT/2019/27<br/>
+ECE/TRADE/C/CEFACT/2019/INF.3<br/>
+ECE/TRADE/C/CEFACT/2018/9<br/>
+ECE/TRADE/C/CEFACT/2018/25<br/>
+<link target="http://www.unece.org/index.php?id=51234"/><br/>
+<link target="http://www.unece.org/index.php?id=51232"/></p></clause>
+<clause id="_item_4_panel_discussion_on_obstacles_and_challenges" inline-header="false" obligation="normative">
+<title depth="2">5.<tab/>Item 4. Panel discussion on obstacles and challenges</title>
+<p id="_a4568475-c359-4537-b076-8e3426d42606">Representatives from the public and private sectors as well as international organizations will discuss the principle challenges, implementations obstacles, and lessons learned from the implementation of new technologies.</p>
+</clause>
+<clause id="_item_5_vision_mission_and_program_of_work" inline-header="false" obligation="normative"><title depth="2">6.<tab/>Item 5. Vision, Mission and Program of Work</title><p id="_b6e01016-837b-4f48-9131-2786a472b7e8">The draft vision and mission statement, summarizing the overall goals and methods by which to achieve them will be presented for discussion and the final version approved.</p>
+<p id="_56b19f2a-8f6d-4434-aec8-269484077226">The draft Programme of work of the Advisory Group on Advanced Technologies in Trade and Logistics for 2020-2021, which was prepared by the secretariat, will be presented to the Group for discussion and the final version approved.</p>
+<p id="_b419730c-93ea-4d8e-acdd-79abd83747c6">
+<em>Documentation:</em>
+</p>
+<p id="_327fc62c-1ad2-4d77-b290-b34c6e34e78d">ECE/TRADE/C/CEFACT/2019/22/Rev.1<br/>
+ECE/AGAT/2020/INF.3<br/>
+ECE/AGAT/2020/INF.4</p></clause>
+<clause id="_item_6_future_work" inline-header="false" obligation="normative">
+<title depth="2">7.<tab/>Item 6. Future work</title>
+<p id="_cdf40863-7233-439d-833f-2c889aaeb75f">The Group will discuss its future work, including the specific activities to be undertaken during the coming year.</p>
+</clause>
+<clause id="_item_7_other_business" inline-header="false" obligation="normative">
+<title depth="2">8.<tab/>Item 7. Other business</title>
+<p id="_3e5a4601-9391-4bc4-8574-ca72e0fe8092">Experts will be invited to raise other issues not previously addressed during the session.</p>
+</clause>
+<clause id="_item_8_adoption_of_decisions_and_the_report_of_the_first_session" inline-header="false" obligation="normative"><title depth="2">9.<tab/>Item 8. Adoption of decisions and the report of the first session</title><p id="_a55fdc58-091d-49f3-8e58-fdd0e825fa93">Experts will be invited to adopt the report of the session.</p>
+<p id="_01db8af4-bcb4-4f06-a5ef-e0fa6e2327ba"><em>Documentation</em>:</p>
+<p id="_1f0c56ef-0190-4bc3-b781-da64b3581bf4">ECE/AGAT/2020/INF.2</p>
+<p id="_eee6b43d-483a-41d3-a68d-a95cab29cdf8">
+<strong>Closing</strong>
+</p></clause></clause></sections>
+</un-standard>

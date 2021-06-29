@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<un-standard xmlns="https://www.metanorma.org/ns/un" type="presentation" version="0.6.5">
+<bibdata type="standard">
+<title type="main" language="en" format="text/plain">Programme of Work of the Advisory Group on Advanced Technologies in Trade and Logistics</title>
+<docidentifier>GE.20-02502(E)</docidentifier>
+<docnumber>GE.20-02502(E)</docnumber>
+<contributor>
+<role type="author"/>
+<organization>
+<name>United Nations</name>
+</organization>
+</contributor>
+<contributor>
+<role type="publisher"/>
+<organization>
+<name>United Nations</name>
+</organization>
+</contributor>
+<version>
+<revision-date>18 February 2020</revision-date>
+</version>
+<language current="true">en</language>
+<script current="true">Latn</script><abstract><p>The Advisory Group on Advanced Technologies in Trade and Logistics will present its first draft Programme of Work for 2020-2021.</p>
+<p>Document ECE/TRADE/C/CEFACT/2020/18 is submitted by the UN/CEFACT Bureau to the twenty-sixth session of the Plenary for endorsement.</p></abstract>
+<status>
+<stage language="">published</stage>
+</status>
+<copyright>
+<from>2020</from>
+<owner>
+<organization>
+<name>United Nations</name>
+</organization>
+</owner>
+</copyright>
+<ext>
+<doctype language="">recommendation</doctype>
+<editorialgroup>
+<committee>Centre for Trade Facilitation and Electronic Business</committee>
+</editorialgroup>
+<distribution>General</distribution>
+<session>
+<number>26</number>
+<date>Geneva, 4-5 May 2019</date>
+<item-number>8 of the provisional agenda</item-number>
+<item-name>Advisory Group on Advanced Technologies in Trade and Logistics</item-name>
+<id>ECE/TRADE/C/CEFACT/2020/18</id>
+</session>
+</ext>
+</bibdata><localized-strings><localized-string key="scope" language="en">Scope</localized-string><localized-string key="symbolsabbrev" language="en">Symbols and abbreviated terms</localized-string><localized-string key="abbrev" language="en">Abbreviated terms</localized-string><localized-string key="symbols" language="en">Symbols</localized-string><localized-string key="table_of_contents" language="en">Table of contents</localized-string><localized-string key="introduction" language="en">Introduction</localized-string><localized-string key="foreword" language="en">Foreword</localized-string><localized-string key="abstract" language="en">Summary</localized-string><localized-string key="acknowledgements" language="en">Acknowledgements</localized-string><localized-string key="termsdef" language="en">Terms and definitions</localized-string><localized-string key="termsdefsymbolsabbrev" language="en">Terms, definitions, symbols and abbreviated terms</localized-string><localized-string key="termsdefsymbols" language="en">Terms, definitions and symbols</localized-string><localized-string key="termsdefabbrev" language="en">Terms, definitions and abbreviated terms</localized-string><localized-string key="normref" language="en">Normative references</localized-string><localized-string key="bibliography" language="en">Bibliography</localized-string><localized-string key="preface" language="en">Preface</localized-string><localized-string key="clause" language="en">Clause</localized-string><localized-string key="annex" language="en">Annex</localized-string><localized-string key="appendix" language="en">Appendix</localized-string><localized-string key="no_terms_boilerplate" language="en"><p>No terms and definitions are listed in this document.</p>
+</localized-string><localized-string key="internal_terms_boilerplate" language="en"><p>For the purposes of this document, 
+    the following terms and definitions apply.</p>
+</localized-string><localized-string key="norm_with_refs_pref" language="en">The following documents are referred to in the text in such a way that some or all of their content constitutes requirements of this document. For dated references, only the edition cited applies. For undated references, the latest edition of the referenced document (including any amendments) applies.</localized-string><localized-string key="norm_empty_pref" language="en">There are no normative references in this document.</localized-string><localized-string key="external_terms_boilerplate" language="en"><p>For the purposes of this document, 
+  the terms and definitions given in % apply.</p>
+</localized-string><localized-string key="internal_external_terms_boilerplate" language="en"><p>For the purposes of this document, the terms and definitions 
+  given in % and the following apply.</p>
+</localized-string><localized-string key="term_defined_in" language="en">[term defined in %]</localized-string><localized-string key="note" language="en">NOTE</localized-string><localized-string key="note_xref" language="en">Note</localized-string><localized-string key="termnote" language="en">Note % to entry</localized-string><localized-string key="list" language="en">List</localized-string><localized-string key="figure" language="en">Figure</localized-string><localized-string key="formula" language="en">Formula</localized-string><localized-string key="inequality" language="en">Formula</localized-string><localized-string key="table" language="en">Table</localized-string><localized-string key="requirement" language="en">Requirement</localized-string><localized-string key="recommendation" language="en">Recommendation</localized-string><localized-string key="permission" language="en">Permission</localized-string><localized-string key="key" language="en">Key</localized-string><localized-string key="example" language="en">EXAMPLE</localized-string><localized-string key="example_xref" language="en">Example</localized-string><localized-string key="where" language="en">where</localized-string><localized-string key="wholeoftext" language="en">Whole of text</localized-string><localized-string key="draft_label" language="en">draft</localized-string><localized-string key="inform_annex" language="en">informative</localized-string><localized-string key="norm_annex" language="en">normative</localized-string><localized-string key="modified" language="en">modified</localized-string><localized-string key="deprecated" language="en">DEPRECATED</localized-string><localized-string key="source" language="en">SOURCE</localized-string><localized-string key="and" language="en">and</localized-string><localized-string key="all_parts" language="en">All Parts</localized-string><localized-string key="month_january" language="en">January</localized-string><localized-string key="month_february" language="en">February</localized-string><localized-string key="month_march" language="en">March</localized-string><localized-string key="month_april" language="en">April</localized-string><localized-string key="month_may" language="en">May</localized-string><localized-string key="month_june" language="en">June</localized-string><localized-string key="month_july" language="en">July</localized-string><localized-string key="month_august" language="en">August</localized-string><localized-string key="month_september" language="en">September</localized-string><localized-string key="month_october" language="en">October</localized-string><localized-string key="month_november" language="en">November</localized-string><localized-string key="month_december" language="en">December</localized-string><localized-string key="obligation" language="en">Obligation</localized-string><localized-string key="subject" language="en">Subject</localized-string><localized-string key="inherits" language="en">Inherits</localized-string><localized-string key="admonition" language="en">Box</localized-string><localized-string key="locality.section" language="en">Section</localized-string><localized-string key="locality.clause" language="en">Clause</localized-string><localized-string key="locality.part" language="en">Part</localized-string><localized-string key="locality.paragraph" language="en">Paragraph</localized-string><localized-string key="locality.chapter" language="en">Chapter</localized-string><localized-string key="locality.page" language="en">Page</localized-string><localized-string key="locality.table" language="en">Table</localized-string><localized-string key="locality.annex" language="en">Annex</localized-string><localized-string key="locality.figure" language="en">Figure</localized-string><localized-string key="locality.example" language="en">Example</localized-string><localized-string key="locality.note" language="en">Note</localized-string><localized-string key="locality.formula" language="en">Formula</localized-string><localized-string key="Clause.sg" language="en">Clause</localized-string><localized-string key="Clause.pl" language="en">Clauses</localized-string><localized-string key="Annex.sg" language="en">Annex</localized-string><localized-string key="Annex.pl" language="en">Annexes</localized-string><localized-string key="Appendix.sg" language="en">Appendix</localized-string><localized-string key="Appendix.pl" language="en">Appendixes</localized-string><localized-string key="Note.sg" language="en">Note</localized-string><localized-string key="Note.pl" language="en">Notes</localized-string><localized-string key="Note_%_to_entry.sg" language="en">Note % to entry</localized-string><localized-string key="Note_%_to_entry.pl" language="en">Notes % to entry</localized-string><localized-string key="List.sg" language="en">List</localized-string><localized-string key="List.pl" language="en">Lists</localized-string><localized-string key="Figure.sg" language="en">Figure</localized-string><localized-string key="Figure.pl" language="en">Figures</localized-string><localized-string key="Formula.sg" language="en">Formula</localized-string><localized-string key="Formula.pl" language="en">Formulas</localized-string><localized-string key="Table.sg" language="en">Table</localized-string><localized-string key="Table.pl" language="en">Tables</localized-string><localized-string key="Requirement.sg" language="en">Requirement</localized-string><localized-string key="Requirement.pl" language="en">Requirements</localized-string><localized-string key="Recommendation.sg" language="en">Recommendation</localized-string><localized-string key="Recommendation.pl" language="en">Recommendations</localized-string><localized-string key="Permission.sg" language="en">Permission</localized-string><localized-string key="Permission.pl" language="en">Permissions</localized-string><localized-string key="Example.sg" language="en">Example</localized-string><localized-string key="Example.pl" language="en">Examples</localized-string><localized-string key="Part.sg" language="en">Part</localized-string><localized-string key="Part.pl" language="en">Parts</localized-string><localized-string key="Section.sg" language="en">Section</localized-string><localized-string key="Section.pl" language="en">Sections</localized-string><localized-string key="Paragraph.sg" language="en">Paragraph</localized-string><localized-string key="Paragraph.pl" language="en">Paragraphs</localized-string><localized-string key="Chapter.sg" language="en">Chapter</localized-string><localized-string key="Chapter.pl" language="en">Chapters</localized-string><localized-string key="Page.sg" language="en">Page</localized-string><localized-string key="Page.pl" language="en">Pages</localized-string><localized-string key="paragraph" language="en">paragraph</localized-string><localized-string key="language" language="en">en</localized-string><localized-string key="script" language="en">Latn</localized-string></localized-strings>
+<boilerplate>
+  <copyright-statement>
+    <clause>
+      <p id="boilerplate-ECEhdr">ECE/TRADE/437</p>
+      <p id="_fc69deae-53dd-401f-8d9f-4f0f87e86124">Copyright &#169; United Nations 2020<br/>
+        All rights reserved worldwide<br/>
+        United Nations publication issued by the Economic Commission for Europe</p>
+    </clause>
+  </copyright-statement>
+  <license-statement>
+    <clause>
+      <p id="_c37d6f39-e102-4441-b42b-2c2b9706d9b0">None of the materials provided on this web site may be used,
+        reproduced or transmitted, in whole or in part, in any form or by any
+        means, electronic or mechanical, including photocopying, recording or
+        the use of any information storage and retrieval system, except as
+        provided for in the Terms and Conditions of Use of United Nations Web
+        Sites, without permission in writing from the publisher.</p>
+
+      <p id="_2592eb42-5ed5-4eaa-966f-eeac6c7c25a3">News-related material can be used as long as the appropriate credit is given and the United Nations is advised.</p>
+      <p id="_3b7322fc-3464-45ce-af74-1c2a562be946">To request such permission or for further enquires, please visit:
+        <link target="https://shop.un.org/rights-permissions">United Nations Publications: Rights and Permissions.</link></p>
+    </clause>
+  </license-statement>
+  <legal-statement>
+    <clause>
+      <clause>
+        <title depth="1">Note</title>
+        <p id="_0c84609a-bab3-4985-8fd7-f05b3df63508">The designations employed and the presentation of the material in this publication do not imply the expression of any opinion whatsoever on the part of the Secretariat of the United Nations concerning the legal status of any country, territory, city or area, or of its authorities, or concerning the delimitation of its frontiers or boundaries.</p>
+      </clause>
+
+      
+    </clause>
+  </legal-statement>
+  <feedback-statement>
+    <clause>
+      <p id="boilerplate-feedback-name">UN Economic Commission for Europe: Information Service</p>
+      <p id="boilerplate-feedback-address">
+        
+        Palais des Nations<br/>
+        CH-1211 Geneva 10<br/>
+        Switzerland<br/>
+        <br/>
+        <link target="tel:+41(0)229171234">+41 (0) 22 917 12 34 (switchboard)</link><br/>
+               
+        <link target="mailto:unece_info@un.org">unece_info@un.org</link><br/>
+        <link target="https://www.unece.org/">www.unece.org/</link>
+      </p>
+    </clause>
+  </feedback-statement>
+</boilerplate>
+
+
+<preface><abstract id="_summary" displayorder="1"><title>Summary</title><p id="_2e4744ef-888c-4364-987b-4a8230f3f46e">The Advisory Group on Advanced Technologies in Trade and Logistics will present its first draft Programme of Work for 2020-2021.</p>
+<p id="_f94abeef-bfaf-4aa1-a3c3-0b362d667226">Document ECE/TRADE/C/CEFACT/2020/18 is submitted by the UN/CEFACT Bureau to the twenty-sixth session of the Plenary for endorsement.</p></abstract></preface><sections>
+<clause id="_background" inline-header="false" obligation="normative" displayorder="2"><title depth="1">I.<tab/>Background</title><clause id="_fd92506e-0532-4714-a89f-320898615097" inline-header="true" obligation="normative"><title>1.</title><p id="_aafa0a7b-8dfe-43d3-8c1e-ce61e145d0ed">The United Nations Centre for Trade Facilitation and Electronic Business (UN/CEFACT) has proposed the establishment of an Advisory Group in order to advise and support the United Nations Economic Commission for Europe (UNECE) Secretariat and UN/CEFACT on advanced technologies in trade facilitation and electronic business. The technologies in question include blockchain, the Internet of Things (IoT), and Artificial Intelligence (AI). These are the most recent areas of rapid development in the international supply chain.</p></clause>
+<clause id="_3cc8b92d-65a5-4a52-a8ab-12c751d499ca" inline-header="true" obligation="normative"><title>2.</title><p id="_b2610c66-40bc-4731-a15c-6218556c6e88">Technology is evolving faster than ever before in human history. We are at the intersection of several cutting-edge technologies that are redefining interactions between the physical and virtual world, driving disruption and enabling new business modes. The importance of technology innovation is recognized by the international community in Sustainable Development Goal 17: Strengthen the means of implementation and revitalize the global partnership for sustainable development.</p></clause>
+<clause id="_54aff127-6ea9-4958-9d3e-eab5658f162a" inline-header="true" obligation="normative"><title>3.</title><p id="_00205bb1-7e5a-449f-8ab5-d85b7b0fc0c9">Technologies such as Distributed Ledger Technology, Artificial Intelligence, the Internet of Things, Quantum Computing, Edge computing, 5G and connectivity related ones, hold significant promise for trade facilitation. Given these cutting-edge developments in technology, it becomes important to keep up to date with the latest trends to evaluate which trends and approaches may be viable for future developments, investments and practical implementation.</p></clause></clause>
+<clause id="_introduction" inline-header="false" obligation="normative" displayorder="3">
+<title depth="1">II.<tab/>Introduction</title>
+<clause id="_2fb29a5a-a5c3-422c-b5f4-06aeb11b2cfe" inline-header="true" obligation="normative"><title>4.</title><p id="_fc0e424d-b9ca-4710-9806-8207544656e3">The present document sets out the Programme of Work for the Advisory Group on Advanced Technologies in Trade and Logistics for 2020-2021.</p></clause>
+</clause>
+<clause id="_vision_statement" inline-header="false" obligation="normative" displayorder="4"><title depth="1">III.<tab/>Vision statement</title><clause id="_efaac3df-5827-41df-b790-8b5c5ad34e28" inline-header="true" obligation="normative"><title>5.</title><p id="_2dc312c0-2772-4769-9a00-20be18adab77">The work of the Advisory Group will be instrumental in</p><ul id="_9861fd1e-3ba7-473a-960e-d635a39c089c">
+<li>
+<p id="_b54d3bcc-a676-4538-a1f0-6ff4b743137c">achieving an effective and efficient analysis of advanced technologies related to trade and logistics and the subsequent business needs and opportunities for all stakeholders;</p>
+</li>
+<li>
+<p id="_e1565219-8c2e-4563-a3d1-d5da671d9321">providing advice and expertise on implementation requirements and challenges;</p>
+</li>
+<li>
+<p id="_9eee8d7d-5376-4871-a8e4-1ace72453678">identifying potential new work items for UN/CEFACT and needs for updating existing deliverables; and</p>
+</li>
+<li>
+<p id="_952390a7-3ebb-4fd2-a711-7ac93b47e7bc">contributing to the realization of Sustainable Development Goals, particularly goal 17 of the United Nations Agenda 2030 on strengthening the means of implementation and revitalizing the global partnership for sustainable development.</p>
+</li>
+</ul></clause>
+</clause>
+<clause id="_mission_statement" inline-header="false" obligation="normative" displayorder="5"><title depth="1">IV.<tab/>Mission statement</title><clause id="_10d378e5-2785-463c-b9c9-52649836a924" inline-header="true" obligation="normative"><title>6.</title><p id="_63efd819-80be-447a-9b31-229313380522">The Advisory Group will monitor the latest enabling technology developments and trends relevant for trade and logistics; study the potential impact of these technologies on standards, business models and operations; and identify implementation challenges and best practices learned by overcoming these challenges. In particular, the Advisory Group will prepare regular reports on the latest technology trends and the way they may impact relevant trade and logistic areas.</p></clause>
+<clause id="_6fdfe6f2-f06f-4a0a-95cf-4f4b43ff841a" inline-header="true" obligation="normative"><title>7.</title><p id="_a4ed4042-4962-4bbe-b958-150d6a6624b1">In a collaborative environment, together with other relevant entities and organizations, the members of this Advisory Group will work to analyze the latest technology trends, share experiences in development and implementation issues, and facilitate and support the best practices for overcoming these issues.</p></clause>
+<clause id="_050f17a7-434e-474c-b00f-bd87139d0f3d" inline-header="true" obligation="normative"><title>8.</title><p id="_5a04858e-8afc-4a05-8110-55bfc470714d">The Advisory Group will give advice and conduct support activities regarding policymaking and technical implementation of advanced technologies.</p></clause>
+<clause id="_12431c70-3b9d-4164-94ec-74b191686bfb" inline-header="true" obligation="normative"><title>9.</title><p id="_35aae886-f33d-468e-bdf1-b01e8ac5d015">The Advisory Group will contribute to information and knowledge exchange between all relevant stakeholders and provide outreach to other partner organizations in the areas of trade and logistics, management organizations and technical communities.</p></clause>
+<clause id="_7d1afdb9-cfd3-4f9e-b162-c828c10034f5" inline-header="true" obligation="normative"><title>10.</title><p id="_29343514-3d67-4068-83de-5f4f77dbb8bf">The Advisory Group will propose new project developments to be taken up within UN/CEFACT under the Open Development Process (ECE/TRADE/C/CEFACT/2016/17), identify needs for updating existing deliverables and propose ways they could be updated to address findings from emerging technology analysis.</p></clause>
+<clause id="_93e2e7b0-5766-4f98-bc73-4ed03ca9a4a1" inline-header="true" obligation="normative"><title>11.</title><p id="_75be7b59-32c5-4eaa-8cf4-a2dae361dcc4">The Advisory Group will function as a platform for the following:</p><ul id="_c4978d7b-2566-4b0e-a97f-c98021a4f86a">
+<li>
+<p id="_8a4c0585-020f-42e5-a349-fceee0201b89">Monitoring of advanced technologies, assessment and advice;</p>
+</li>
+<li>
+<p id="_2e5c0015-0115-4042-8ecf-067891e8492b">Dialog on implementation challenges and for the exchange of best practice;</p>
+</li>
+<li>
+<p id="_06f99bcb-692c-4148-9672-b6fed5f1ff64">Communication and outreach for Advisory Group findings;</p>
+</li>
+<li>
+<p id="_242e2264-f458-4f1c-9c90-6d9367dfdbf5">Proposals related to Advanced Technologies.</p>
+</li>
+</ul></clause>
+</clause>
+<clause id="_scope_overall_objective_activities_work_areas" inline-header="false" obligation="normative" displayorder="6"><title depth="1">V.<tab/>Scope, overall objective, activities, work areas</title><clause id="_scope" inline-header="false" obligation="normative"><title depth="2">A.<tab/>Scope</title><clause id="_4631ce6b-32ae-4b87-8338-bce00a85534f" inline-header="true" obligation="normative"><title>12.</title><p id="_449befe1-cae3-49ec-8d05-afd293163f4f">The work of the Advisory Group shall have a scope that potentially covers all United Nations Member States, international trade organizations and other organizations involved in technological development and technological implementation activities. It encompasses activities in support of sustainable trade and sustainable economic development.</p></clause>
+<clause id="_63d7d4af-d715-4df7-b3fa-e8cefbe35cce" inline-header="true" obligation="normative"><title>13.</title><p id="_eecc2d01-dd3e-4730-845b-91e7ed8e6c04">It does so by monitoring and analyzing technology trends in trade and logistics and relevant business areas such as digital identity and trustworthiness, security, interoperability and others, promoting, facilitating and supporting the implementation of technology standards, including proposing any necessary development of such standards.</p></clause>
+<clause id="_a3ef5f4e-4c60-48f8-b553-f328dd3714e4" inline-header="true" obligation="normative"><title>14.</title><p id="_893d87d3-a7f2-4cb1-95c2-36150f8874b3">The Programme of Work is linked to the Terms of Reference (ECE/EX/2/Rev.1) as approved at the thirty-fifth meeting of the UNECE EXCOM (31 March 2010).</p></clause></clause>
+<clause id="_objective" inline-header="false" obligation="normative">
+<title depth="2">B.<tab/>Objective</title>
+<clause id="_e310642f-5e97-4414-ba04-b3ca9d242307" inline-header="true" obligation="normative"><title>15.</title><p id="_111e17f3-6c08-4838-b510-c077027f38e0">The purpose of the Advisory Group is to advise on advanced technologies such as blockchain and IoT, as well as implementation challenges (i.e. regulatory obstacles). This includes the potential impact of these technologies on standards, services and everyday electronic data exchange operations.</p></clause>
+</clause>
+<clause id="_activities" inline-header="false" obligation="normative"><title depth="2">C.<tab/>Activities</title><clause id="_3d610bc6-46ae-44ae-b591-167955def3ac" inline-header="true" obligation="normative"><title>16.</title><p id="_bf07c17f-b55c-4368-aa56-2326ed16e8f8">The Advisory Group aims to support UN/CEFACT in achieving this objective by:</p><ol id="_5b1cba15-b037-47c1-8fe8-0f1374eb2602" type="arabic">
+<li>
+<p id="_a28b2574-871b-4c3b-bd92-9ca6e10d8869">monitoring the business needs related to these technologies and how they relate back to UN/CEFACT and its deliverables;</p>
+</li>
+<li>
+<p id="_b88035c8-bcae-4d12-ac9f-6713a95e6a14">supporting dialogue with key external stakeholders;</p>
+</li>
+<li>
+<p id="_66fab9c5-29c3-40d8-bbbc-98435c2484d3">providing advice and expertise on implementation requirements and challenges;</p>
+</li>
+<li>
+<p id="_b3994658-86f7-484d-8145-9de83b5ade16">identifying new work items which will support the role of UN/CEFACT and its deliverables in the context of these technologies;</p>
+</li>
+<li>
+<p id="_c891cae4-cd6d-4eb5-8dc3-e5b6eadc67c8">preparing synopses of good practices on selected issues within the Group&#8217;s mandate for discussion and endorsement by the Bureau; and</p>
+</li>
+<li>
+<p id="_31f1ff96-380c-439c-a624-21fe8e6f86b0">providing support to senior managers on advanced technology issues, especially in the context of how these can be used with UN/CEFACT standards and UNECE recommendations.</p>
+</li>
+</ol></clause>
+
+<clause id="_0606d968-fcc2-442a-8874-d83b046aea4e" inline-header="true" obligation="normative"><title>17.</title><p id="_ea9b3bfa-0541-4007-a8ec-5e303f331d93">Under the guidance of the UNECE Secretariat, the Advisory Group may invite the participation of other organizations (or their membership) actively exploring the applications of this technology. Such organizations include the International Telecommunication Union (ITU), the United Nations Office for Project Services (UNOPS), the World Food Programme (WFP), the United Nations Development Programme (UNDP), the World Bank, the International Monetary Fund (IMF), the International Organization for Standardization (ISO), the Organization for Economic Cooperation and Development (OECD), the World Economic Forum (WEF), and other relevant standards development organizations.</p></clause></clause>
+<clause id="_work_areas" inline-header="false" obligation="normative"><title depth="2">D.<tab/>Work areas</title><clause id="_34a9c573-915c-439c-b9be-cb11a02b6f05" inline-header="true" obligation="normative"><title>18.</title><p id="_1b618f90-89f7-4f73-83c9-3880bd290fea">The Programme of work is structured around the following work areas (WA):</p><ul id="_e07b915c-eb01-47ad-acfe-2d4e8237fe81">
+<li>
+<p id="_52f5bb20-49a8-4997-a4be-fd966b798fde">WA1: Technical monitoring, assessment and advice.</p>
+</li>
+<li>
+<p id="_12702be6-c3c5-425f-99f7-5791451ce7a0">WA2: Implementation challenges and good practices.</p>
+</li>
+<li>
+<p id="_1b23b367-9c3d-4765-b53e-9338baad901e">WA3: Support strategic dialogue with key external stakeholders.</p>
+</li>
+<li>
+<p id="_4d69546f-6a50-4ce4-82ae-d316f1f059b1">WA4: Proposals for new development.</p>
+</li>
+</ul></clause>
+
+<clause id="_wa1_technical_monitoring_assessment_and_advice" inline-header="false" obligation="normative">
+<title depth="3">1.<tab/>WA1: Technical monitoring, assessment and advice</title>
+<clause id="_61f7b3d9-8c3c-4cf0-9749-3f97c37fa103" inline-header="true" obligation="normative"><title>19.</title><p id="_fd3dbf2e-e097-4b94-9bad-9e27bdec0a55">This Work Area involves monitoring and analyzing current and emerging technologies used in the trade and logistics areas. This Work Area encompasses active engagement with technology leaders, developers and early adopters on a global scale by contributing to events on technology developments related to trade and by contacting authorities, standardization organizations and academia.</p></clause>
+</clause>
+<clause id="_wa2_implementation_challenges_and_good_practices" inline-header="false" obligation="normative">
+<title depth="3">2.<tab/>WA2: Implementation challenges and good practices</title>
+<clause id="_46f5bc01-e280-44ee-b55d-cb630b5a29b3" inline-header="true" obligation="normative"><title>20.</title><p id="_d58623c2-8d8d-4cda-a737-be7b3cb8ea1f">The Work Area on implementation challenges and advice facilitates and supports the implementation of relevant advanced technologies on business, interoperability, legal and technical levels. The Advisory Group shall contribute by identifying and advising on business, legal and technical implementation issues related to technology and sharing best practices with a specific focus on support for decision-making.</p></clause>
+</clause>
+<clause id="_wa3_support_strategic_dialogue_with_key_external_stakeholders" inline-header="false" obligation="normative"><title depth="3">3.<tab/>WA3: Support strategic dialogue with key external stakeholders</title><clause id="_1bfa18ec-cfcb-46bb-be89-19c5d24c7538" inline-header="true" obligation="normative"><title>21.</title><p id="_ca136221-6793-458e-b418-a9fac4794e09">Activities of this Work Area are as follows:</p><ul id="_4744f6ca-6a0f-46c1-8a3a-8d93b34866da">
+<li>
+<p id="_d765b083-5053-4d78-bbfb-c95d78c4c745">Creating the content for UNECE website of the Advisory Group (maintenance, content and design, including possible use of social media and videos)</p>
+</li>
+<li>
+<p id="_eae6118e-7ba6-497f-9f67-0fbd76b79cfa">Contributing to relevant events within the United Nations and in other organizations to disseminate the work of UN/CEFACT and the Advisory Group (in line with the internal UN/CEFACT Representation Guidelines)</p>
+</li>
+<li>
+<p id="_7b31b581-ce99-4430-afdf-bf78beb72333">Reaching out to trade and logistics management organizations and technical communities to exploit the benefits sharing knowledge and expertise through partnerships and to minimize the chance of working separately on the same issues</p>
+</li>
+<li>
+<p id="_430c4e7e-8e12-4574-8bad-4f94cd25848c">Capacity building in the use of advanced technologies in Trade and Logistics</p>
+</li>
+</ul></clause>
+</clause>
+<clause id="_wa4_proposals_for_new_development" inline-header="false" obligation="normative">
+<title depth="3">4.<tab/>WA4: Proposals for new development</title>
+<clause id="_8fdb1322-7ef8-4a71-84c7-e6860f0347db" inline-header="true" obligation="normative"><title>22.</title><p id="_1432f734-c16a-4c23-9549-4bc9bf2f7c5b">The Advisory Group shall identify areas where new standards or guidance material are necessary and propose such work items to be launched within UN/CEFACT under the Open Development Process (ECE/TRADE/C/CEFACT/2016/17) procedure for project development.</p></clause>
+</clause></clause></clause>
+<clause id="_governance" inline-header="false" obligation="normative" displayorder="7"><title depth="1">VI.<tab/>Governance</title><clause id="_543bdbfa-bc77-4cef-9107-7866485ae650" inline-header="true" obligation="normative"><title>23.</title><p id="_87e3e6af-af95-42a1-86d5-6e2fa4689cf6">Participation in the Advisory Group will be on a self-funded, voluntary basis. All members of the Advisory Group must register as experts of UN/CEFACT in accordance with relevant procedures. All contributions to the work of the Advisory Group are in the context of the UN/CEFACT Intellectual Property Rights Policy (ECE/TRADE/C/CEFACT/2010/20/Rev.2), the Code of Conduct (ECE/TRADE/C/CEFACT/2010/18/Rev.1) and the overarching UN/CEFACT Mandate and Terms of Reference (ECE/TRADE/C/CEFACT/2017/15).</p></clause>
+<clause id="_b87e9a32-7732-4c43-bb39-43526cfdf0cb" inline-header="true" obligation="normative"><title>24.</title><p id="_31493284-d5bd-4439-babd-dc5a13367fb2">The Advisory Group appoints its Chair and Vice-Chair(s) for a mandate of two years, in accordance with the Guidelines for the establishment and functioning of Teams of Specialists (UNECE ECE/EX/2/Rev.1).</p></clause>
+<clause id="_51e8216a-bec7-446c-9b8a-cdd3534e9669" inline-header="true" obligation="normative"><title>25.</title><p id="_fbc16c51-c4d8-4a80-9379-47c7f315b8e8">The Advisory Group will plan at least one face-to-face meeting per year and virtual meetings as necessary.</p></clause>
+<clause id="_f85a4cac-c32c-4f5f-9dec-d630dcdeb447" inline-header="true" obligation="normative"><title>26.</title><p id="_c0627fd5-734d-40f8-83d7-b51d3a470d52">It is the responsibility of the Chair that the objectives of the Group are met, and all relevant procedures properly applied including this Programme of Work.</p></clause>
+<clause id="_6ae10742-d752-4e5e-ad98-49ae1aa9ebba" inline-header="true" obligation="normative"><title>27.</title><p id="_0f501e9a-0dc6-4ffa-890a-c12ac60c3a1e">The UNECE Secretariat provides necessary support to the Advisory Group within available resources.</p></clause></clause>
+<clause id="_reporting" inline-header="false" obligation="normative" displayorder="8">
+<title depth="1">VII.<tab/>Reporting</title>
+<clause id="_89f060fa-9d0d-4317-8781-aa20df301ebc" inline-header="true" obligation="normative"><title>28.</title><p id="_a8355c00-8321-4aea-9032-2799e143d657">The Advisory Group will report to the UN/CEFACT Plenary annually and will keep the UN/CEFACT Plenary Bureau informed of its activities.</p></clause>
+</clause></sections>
+</un-standard>

@@ -1,0 +1,41 @@
+/__w/mn-samples-un/mn-samples-un/site/documents/ECE_TRADE_C_CEFACT_2019_22_REV1.err errors
+
+
+== Document Attributes
+
+(): terms-of-reference is not a legal document type: reverting to 'recommendation'
+
+
+== Metanorma XML Style Warning
+
+(XML Line 000054): Hanging paragraph in clause
+	<clause id="_background" inline-header="false" obligation="normative">
+	<title>Background</title>
+	<clause id="_28460fdb-0a29-4811-a54a-87fca133dacd" inline-header="true" obligation="normative"><p id="_79ee6237-74ef-47b1-accb-80e54281f617">Based on discussions in the eGovernment Domain and Blockchain Whitepaper Project Team meetings during the United Nations Centre for Trade Facilitation and Electronic Business (UN/CEFACT) Forum in October 2018, the establishment of an Advisory Group was proposed to the Bureau in order to advise and support the UNECE secretariat and UN/CEFACT on advanced technologies in trade facilitation and electronic business. The technologies in question include blockchain1, Internet of Things (IoT), and Artificial Intelligence (AI) — the most recent areas of rapid development in the international supply chain.</p></clause>
+	</clause>
+(XML Line 000058): Hanging paragraph in clause
+	<clause id="_objectives_and_activities" inline-header="false" obligation="normative"><title>Objectives and activities</title><clause id="_cd2426aa-5d80-4b39-bab8-ca61974ee1c1" inline-header="true" obligation="normative"><p id="_a2f57720-4176-4b39-ad93-a2c3846ce907">The purpose of the Advisory Group is to advise on advanced technologies such as blockchain and IoT, as well as implementation challenges (such as regulatory obstacles). This includes the potential impact of these technologies on standards, services and everyday operations.</p></clause>
+	<clause id="_30825e6f-5822-48b9-a876-5af71078a211" inline-header="true" obligation="normative"><p id="_3b89c7d7-0ba4-46ff-a0d2-33477d503ed0">To support UN/CEFACT in achieving this objective, the Advisory Group will:</p><ol id="_2af7c734-8776-4104-b934-e238bdf06d00" type="arabic">
+	<li>
+	<p id="_133322b5-d655-4a2c-a731-dd70b7e960bd">Monitor the business needs related to these technologies and how they relate back to UN/CEFACT and its deliverables;</p>
+	</li>
+(XML Line 000081): Hanging paragraph in clause
+	<clause id="_composition_its_membership_and_participation_in_its_meetings" inline-header="false" obligation="normative"><title>Composition, its membership and participation in its meetings</title><clause id="_68008bf3-ebc0-4d1c-9d73-9ac03f1afd08" inline-header="true" obligation="normative"><p id="_653e837c-6228-43e3-85fd-a3094bcafc32">The selection of Advisory Group members will be in line with the document “Guidelines for the establishment and functioning of Teams of Specialists” (ECE.EX.2/Rev.1). The rules and principles of the following paragraphs will also be applied.</p></clause>
+	<clause id="_5594775a-8a60-4f53-be29-4b934aa3e858" inline-header="true" obligation="normative"><p id="_e4502242-0cf5-48e6-a7f2-83290c390275">The Advisory Group shall be composed of experts with the collective expertise to address the specific tasks defined for it. These should be drawn from</p><ol id="_13350689-ecb9-42e4-872a-97940a9c16da" type="arabic">
+	<li>
+	<p id="_f80a99cc-47a4-4dd2-b3ad-9c5df5659290">governmental institutions;</p>
+	</li>
+(XML Line 000122): Hanging paragraph in clause
+	<clause id="_reporting" inline-header="false" obligation="normative">
+	<title>Reporting</title>
+	<clause id="_dfd8ee7f-217d-44c4-824d-170404e66d58" inline-header="true" obligation="normative"><p id="_b11e6d96-3abd-4399-88ab-00c412518f05">The Advisory Group will report to the UN/CEFACT Plenary annually and will keep the UN/CEFACT Plenary Bureau informed of its activities.</p></clause>
+	</clause>
+
+
+== Metanorma XML Syntax
+
+(XML Line 000020:44): character content of element "revision-date" invalid; must be a string matching the regular expression "([\+\-]?\d{4})((-?)((0[1-9]|1[0-2])((-?)([12]\d|0[1-9]|3[01]))?|W([0-4]\d|5[0-2])(-?[1-7])?|(00[1-9]|0[1-9]\d|[12]\d{2}|3([0-5]\d|6[1-6]))))?"
+(XML Line 000041:37): character content of element "distribution" invalid; must be equal to "general", "limited", "provisional" or "restricted"
+(XML Line 000044:36): character content of element "date" invalid; must be a string matching the regular expression "([\+\-]?\d{4})((-?)((0[1-9]|1[0-2])((-?)([12]\d|0[1-9]|3[01]))?|W([0-4]\d|5[0-2])(-?[1-7])?|(00[1-9]|0[1-9]\d|[12]\d{2}|3([0-5]\d|6[1-6]))))?"
+(XML Line 000044:7): element "date" not allowed here; expected the element end-tag or element "agenda-id", "collaborator", "item-footnote", "item-name", "item-number", "session-date" or "subitem-name"
+(XML Line 000049:5): element "id" not allowed here; expected the element end-tag or element "agenda-id", "collaborator", "item-footnote", "item-name" or "subitem-name"

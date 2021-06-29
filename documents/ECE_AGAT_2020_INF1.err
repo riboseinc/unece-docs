@@ -1,0 +1,23 @@
+/__w/mn-samples-un/mn-samples-un/site/documents/ECE_AGAT_2020_INF1.err errors
+
+
+== Metanorma XML Style Warning
+
+(XML Line 000079): Hanging paragraph in clause
+	<clause id="_annotations" inline-header="false" obligation="normative"><title>Annotations</title><clause id="_opening" inline-header="false" obligation="normative">
+	<title>Opening</title>
+	<p id="_95e6bc15-573b-411e-874d-07c268b74e3f">The session will be opened by the Director of the Economic Cooperation and Trade Division of the United Nations Economic Commission for Europe (UNECE).</p>
+	</clause>
+	<clause id="_item_1_adoption_of_the_agenda" inline-header="false" obligation="normative"><title>Item 1. Adoption of the agenda</title><p id="_0170dce1-cf20-4463-bfae-6ec0a62be5d4">The secretariat will present the draft agenda for adoption.</p>
+
+
+== Metanorma XML Syntax
+
+(XML Line 000020:47): character content of element "revision-date" invalid; must be a string matching the regular expression "([\+\-]?\d{4})((-?)((0[1-9]|1[0-2])((-?)([12]\d|0[1-9]|3[01]))?|W([0-4]\d|5[0-2])(-?[1-7])?|(00[1-9]|0[1-9]\d|[12]\d{2}|3([0-5]\d|6[1-6]))))?"
+(XML Line 000040:37): character content of element "distribution" invalid; must be equal to "general", "limited", "provisional" or "restricted"
+(XML Line 000043:37): character content of element "date" invalid; must be a string matching the regular expression "([\+\-]?\d{4})((-?)((0[1-9]|1[0-2])((-?)([12]\d|0[1-9]|3[01]))?|W([0-4]\d|5[0-2])(-?[1-7])?|(00[1-9]|0[1-9]\d|[12]\d{2}|3([0-5]\d|6[1-6]))))?"
+(XML Line 000043:7): element "date" not allowed here; expected the element end-tag or element "agenda-id", "collaborator", "item-footnote", "item-name", "item-number", "session-date" or "subitem-name"
+(XML Line 000046:5): element "id" not allowed here; expected the element end-tag or element "agenda-id", "collaborator", "item-footnote", "item-name" or "subitem-name"
+(XML Line 000102:11): element "sections" not allowed yet; missing required element "preface"
+(XML Line 000103:430): element "fn" not allowed here; expected the element end-tag, text or element "bookmark", "br", "em", "eref", "hr", "link", "pagebreak", "smallcap", "stem", "strike", "strong", "sub", "sup", "tt" or "xref"
+(XML Line 000103:44): element "fn" not allowed here; expected the element end-tag, text or element "bookmark", "br", "em", "eref", "hr", "link", "pagebreak", "smallcap", "stem", "strike", "strong", "sub", "sup", "tt" or "xref"
